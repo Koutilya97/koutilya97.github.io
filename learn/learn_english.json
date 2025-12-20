@@ -1,0 +1,108 @@
+{
+    "subjectId": "english",
+    "title": "TET English (इंग्रजी विषय)",
+    "posts": [
+        {
+            "id": "post_1",
+            "title": "गद्य उतारा आकलन (Reading Comprehension)",
+            "url": "https://www.e-gurumitra.com/2025/10/reading-comprehension.html",
+            "description": "Practice questions and reading skills."
+        },
+        {
+            "id": "post_2",
+            "title": "कविता आकलन (Poetry Comprehension)",
+            "url": "https://www.e-gurumitra.com/2025/10/poetry-comprehension.html",
+            "description": "Learn figures of speech and poetry."
+        },
+        {
+            "id": "post_3",
+            "title": "शब्दांच्या जाती 1 (Noun, Pronoun, Adjective)",
+            "url": "https://www.e-gurumitra.com/2025/10/parts-of-speech-1-noun-pronoun-adjective.html",
+            "description": "Nouns, pronouns, and adjectives explained."
+        },
+        {
+            "id": "post_4",
+            "title": "शब्दांच्या जाती 2 (Verb and Adverb)",
+            "url": "https://www.e-gurumitra.com/2025/10/parts-of-speech-2-verb-and-adverb.html",
+            "description": "Verbs and adverbs with examples."
+        },
+        {
+            "id": "post_5",
+            "title": "शब्दांच्या जाती 3 (Preposition, Conjunction & Interjection)",
+            "url": "https://www.e-gurumitra.com/2025/10/parts-of-speech-3.html",
+            "description": "Prepositions, conjunctions, and interjections usage."
+        },
+        {
+            "id": "post_6",
+            "title": "वाक्य (Sentences)",
+            "url": "https://www.e-gurumitra.com/2025/10/sentences_21.html",
+            "description": "Types and transformation of sentences."
+        },
+        {
+            "id": "post_7",
+            "title": "वर्तमान काळ (Present Tense)",
+            "url": "https://www.e-gurumitra.com/2025/10/present-tense.html",
+            "description": "Rules and usage of Present Tense."
+        },
+        {
+            "id": "post_8",
+            "title": "भूतकाळ (Past Tense)",
+            "url": "https://www.e-gurumitra.com/2025/10/past-tense.html",
+            "description": "Structure and rules of Past Tense."
+        },
+        {
+            "id": "post_9",
+            "title": "भविष्य काळ (Future Tense)",
+            "url": "https://www.e-gurumitra.com/2025/10/future-tense.html",
+            "description": "Rules regarding Future Tense usage."
+        },
+        {
+            "id": "post_10",
+            "title": "काळ (Tenses Revised)",
+            "url": "https://www.e-gurumitra.com/2025/10/tenses-revised.html",
+            "description": "Revision of all tenses together."
+        },
+        {
+            "id": "post_11",
+            "title": "प्रयोग आणि भाषण (Voice & Speech)",
+            "url": "https://www.e-gurumitra.com/2025/10/voice_26.html",
+            "description": "Active-Passive Voice and Direct-Indirect Speech."
+        },
+        {
+            "id": "post_12",
+            "title": "शब्दसंग्रह (English Vocabulary)",
+            "url": "https://www.e-gurumitra.com/2025/10/vocabulary.html",
+            "description": "Synonyms, antonyms, idioms, and phrases."
+        },
+        {
+            "id": "post_13",
+            "title": "इंग्रजी अध्यापन पद्धती (Teaching Methods)",
+            "url": "https://www.e-gurumitra.com/2025/10/teaching-methods.html",
+            "description": "Various methods of teaching English."
+        },
+        {
+            "id": "post_14",
+            "title": "अध्यापनाचे प्रतिमान (Models of Teaching)",
+            "url": "https://www.e-gurumitra.com/2025/10/models-of-teaching.html",
+            "description": "Models of teaching and their use."
+        },
+        {
+            "id": "post_15",
+            "title": "इंग्रजी अध्यापनातील नवोपक्रम (Innovations & ICT)",
+            "url": "https://www.e-gurumitra.com/2025/10/innovations-ict.html",
+            "description": "Innovations and ICT in teaching."
+        },
+        {
+            "id": "post_16",
+            "title": "मूल्यमापन (Evaluation)",
+            "url": "https://www.e-gurumitra.com/2025/11/evaluation-of-english.html",
+            "description": "Evaluation tools and CCE methods."
+        },
+        {
+            "id": "post_17",
+            "title": "LSRW कौशल्ये (LSRW Skills)",
+            "url": "https://www.e-gurumitra.com/2025/11/lsrw-deep-dive.html",
+            "description": "Listening, Speaking, Reading, Writing skills."
+        }
+    ]
+}
