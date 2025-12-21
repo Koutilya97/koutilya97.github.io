@@ -1,0 +1,24 @@
+{
+    "subjectId": "hindi",
+    "title": "Hindi Language",
+    "posts": [
+        {
+            "id": "hindi_01",
+            "title": "परीक्षा पैटर्न और हिंदी पाठ्यक्रम",
+            "url": "https://www.e-gurumitra.com/2025/12/ctet-syllabus-decoding.html",
+            "description": "Exam Pattern and Hindi Syllabus Decoding."
+        },
+        {
+            "id": "hindi_02",
+            "title": "अधिगम एवं अर्जन",
+            "url": "https://www.e-gurumitra.com/2025/12/learning-vs-aquisition.html",
+            "description": "Learning vs Acquisition."
+        },
+        {
+            "id": "hindi_03",
+            "title": "भाषा विकास के प्रमुख मनोवैज्ञानिक सिद्धांत",
+            "url": "https://www.e-gurumitra.com/2025/12/theories-of-language-development.html",
+            "description": "Major Psychological Theories of Language Development."
+        }
+    ]
+}
