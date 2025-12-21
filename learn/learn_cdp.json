@@ -1,0 +1,42 @@
+{
+    "subjectId": "cdp",
+    "title": "Child Development & Pedagogy",
+    "posts": [
+        {
+            "id": "cdp_01",
+            "title": "विकास की अवधारणा एवं अधिगम से संबंध",
+            "url": "https://www.e-gurumitra.com/2025/12/ctet.html",
+            "description": "Concept of development and its relationship with learning."
+        },
+        {
+            "id": "cdp_02",
+            "title": "बाल विकास के सिद्धान्त",
+            "url": "https://www.e-gurumitra.com/2025/12/principles-of-child-development.html",
+            "description": "Principles of Child Development."
+        },
+        {
+            "id": "cdp_03",
+            "title": "आनुवंशिकता और वातावरण",
+            "url": "https://www.e-gurumitra.com/2025/12/heredity-environment.html",
+            "description": "Influence of Heredity and Environment."
+        },
+        {
+            "id": "cdp_04",
+            "title": "समाजीकरण की प्रक्रिया",
+            "url": "https://www.e-gurumitra.com/2025/12/socialization.html",
+            "description": "Socialization Processes: Social world & children."
+        },
+        {
+            "id": "cdp_05",
+            "title": "पियाजे, कोह्लबर्ग एवं वाइगोत्स्की के सिद्धान्त",
+            "url": "https://www.e-gurumitra.com/2025/12/child-psychologist.html",
+            "description": "Constructs and critical perspectives of Piaget, Kohlberg and Vygotsky."
+        },
+        {
+            "id": "cdp_06",
+            "title": "बाल-केन्द्रित एवं प्रगतिशील शिक्षा",
+            "url": "https://www.e-gurumitra.com/2025/12/child-centered.html",
+            "description": "Concepts of Child-centered and Progressive Education."
+        }
+    ]
+}
