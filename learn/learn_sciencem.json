@@ -1,0 +1,160 @@
+{
+    "subjectId": "sciencem",
+    "title": "विज्ञान",
+    "posts": [
+        {
+            "id": "post_1",
+            "title": "अन्नाचे मुख्य घटक",
+            "url": "https://www.e-gurumitra.com/2025/11/food-components.html",
+            "thumbnail": "",
+            "description": "कर्बोदके, प्रथिने, स्निग्ध पदार्थ"
+        },
+        {
+            "id": "post_2",
+            "title": "सूक्ष्म पोषक तत्वे आणि संतुलित आहार",
+            "url": "https://www.e-gurumitra.com/2025/11/vitamins.html",
+            "thumbnail": "",
+            "description": "जीवनसत्त्वे (Vitamins), खनिजे (Minerals)"
+        },
+        {
+            "id": "post_3",
+            "title": "अभावजन्य विकार आणि अन्न संरक्षण पद्धती",
+            "url": "https://www.e-gurumitra.com/2025/11/malnutrition.html",
+            "thumbnail": "",
+            "description": "कुपोषण, जीवनसत्त्वांच्या अभावामुळे होणारे आजार"
+        },
+        {
+            "id": "post_4",
+            "title": "नैसर्गिक धागे, कृत्रिम धागे आणि प्लॅस्टिकचे जग",
+            "url": "https://www.e-gurumitra.com/2025/11/plastic-fibers.html",
+            "thumbnail": "",
+            "description": "कापूस, रेशीम यांसारखे नैसर्गिक धागे आणि नायलॉन, रेयॉन सारखे कृत्रिम धागे"
+        },
+        {
+            "id": "post_5",
+            "title": "पदार्थांचे गुणधर्म",
+            "url": "https://www.e-gurumitra.com/2025/11/properties-of-matter.html",
+            "thumbnail": "",
+            "description": "पदार्थांच्या अवस्था"
+        },
+        {
+            "id": "post_6",
+            "title": "आम्ल, आम्लारी, क्षार आणि उदासिनीकरण",
+            "url": "https://www.e-gurumitra.com/2025/11/acids-and-bases.html",
+            "thumbnail": "",
+            "description": "आम्ल (Acid) आणि आम्लारी (Base)"
+        },
+        {
+            "id": "post_7",
+            "title": "धातू-अधातू, भौतिक-रासायनिक बदल आणि ज्वलन",
+            "url": "https://www.e-gurumitra.com/2025/11/metals-and-nonmetals.html",
+            "thumbnail": "",
+            "description": "धातू व अधातूंचे गुणधर्म, गंजणे"
+        },
+        {
+            "id": "post_8",
+            "title": "पेशी आणि सूक्ष्मजीवांचे जग",
+            "url": "https://www.e-gurumitra.com/2025/11/cells.html",
+            "thumbnail": "",
+            "description": "सजीवांचे रचनात्मक एकक (पेशी), पेशींची रचना"
+        },
+        {
+            "id": "post_9",
+            "title": "वनस्पतींची रचना, प्रकाशसंश्लेषण आणि पुनरुत्पादन",
+            "url": "https://www.e-gurumitra.com/2025/11/plants.html",
+            "thumbnail": "",
+            "description": "वनस्पतींचे अवयव, प्रकाशसंश्लेषण"
+        },
+        {
+            "id": "post_10",
+            "title": "मानवी पचनसंस्था आणि श्वसनसंस्था",
+            "url": "https://www.e-gurumitra.com/2025/11/human-body1.html",
+            "thumbnail": "",
+            "description": "पचन संस्थेचे कार्य आणि श्वसन संस्थेची रचना व कार्य"
+        },
+        {
+            "id": "post_11",
+            "title": "मानवी शरीर - रक्ताभिसरण आणि उत्सर्जन संस्था",
+            "url": "https://www.e-gurumitra.com/2025/11/human-body2.html",
+            "thumbnail": "",
+            "description": "हृदयाचे कार्य, रक्ताभिसरण प्रक्रिया"
+        },
+        {
+            "id": "post_12",
+            "title": "अस्थिसंस्था, सांधे आणि त्वचा",
+            "url": "https://www.e-gurumitra.com/2025/11/skeletal-system.html",
+            "thumbnail": "",
+            "description": "मानवी सांगाडा, हाडांचे प्रकार"
+        },
+        {
+            "id": "post_13",
+            "title": "प्राण्यांमधील पुनरुत्पादन आणि जैवविविधता संवर्धन",
+            "url": "https://www.e-gurumitra.com/2025/11/biodiversity.html",
+            "thumbnail": "",
+            "description": "प्राण्यांमधील प्रजननाचे प्रकार"
+        },
+        {
+            "id": "post_14",
+            "title": "गती, बल आणि दाब",
+            "url": "https://www.e-gurumitra.com/2025/11/laws-of-motion.html",
+            "thumbnail": "",
+            "description": "न्यूटनचे गतीविषयक नियम"
+        },
+        {
+            "id": "post_15",
+            "title": "कार्य, ऊर्जा आणि ऊर्जेचे रूपांतरण",
+            "url": "https://www.e-gurumitra.com/2025/11/blog-post.html",
+            "thumbnail": "",
+            "description": "कार्य आणि ऊर्जा यांमधील संबंध"
+        },
+        {
+            "id": "post_16",
+            "title": "उष्णतेचे संक्रमण आणि ध्वनीची निर्मिती",
+            "url": "https://www.e-gurumitra.com/2025/11/heat-and-sound.html",
+            "thumbnail": "",
+            "description": "उष्णतेचे वहन, अभिसरण व प्रारण"
+        },
+        {
+            "id": "post_17",
+            "title": "प्रकाश",
+            "url": "https://www.e-gurumitra.com/2025/11/light.html",
+            "thumbnail": "",
+            "description": "प्रकाशाचे नियम, आरसे, भिंगे आणि मानवी डोळा"
+        },
+        {
+            "id": "post_18",
+            "title": "विद्युत धारा आणि चुंबकत्व",
+            "url": "https://www.e-gurumitra.com/2025/11/electricity.html",
+            "thumbnail": "",
+            "description": "विद्युत धारा, वाहकता, चुंबकत्व, चुंबकाचे प्रकार"
+        },
+        {
+            "id": "post_19",
+            "title": "नैसर्गिक संसाधने, प्रदूषण आणि संवर्धन",
+            "url": "https://www.e-gurumitra.com/2025/11/natural-resources.html",
+            "thumbnail": "",
+            "description": "नैसर्गिक संसाधने "
+        },
+        {
+            "id": "post_20",
+            "title": "सौरमाला आणि आपत्ती व्यवस्थापन",
+            "url": "https://www.e-gurumitra.com/2025/11/disaster-management.html",
+            "thumbnail": "",
+            "description": "सौरमाला, गृहांची माहिती, नैसर्गिक घटना"
+        },
+        {
+            "id": "post_21",
+            "title": "विज्ञान अध्यापनशास्त्र - भाग १",
+            "url": "https://www.e-gurumitra.com/2025/11/science-education-one.html",
+            "thumbnail": "",
+            "description": "विज्ञानाच्या शिक्षण पद्धती"
+        },
+        {
+            "id": "post_22",
+            "title": "विज्ञान अध्यापनशास्त्र - भाग २",
+            "url": "https://www.e-gurumitra.com/2025/11/sci-education-two.html",
+            "thumbnail": "",
+            "description": "विज्ञानाचे मूल्यांकन, साधने आणि उपचारात्मक अध्यापन"
+        }
+    ]
+}
