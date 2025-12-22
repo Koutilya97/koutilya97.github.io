@@ -1,0 +1,83 @@
+{
+  "subjectId": "cpdm",
+  "title": "बालमानसशास्त्र व अध्यापनशास्त्र",
+  "posts": [
+    {
+      "id": "post_1",
+      "title": "घटक क्र. १: बालकांचा विकास",
+      "url": "https://www.e-gurumitra.com/2025/09/child-development.html",
+      "thumbnail": "",
+      "description": "शारीरिक, मानसिक, भावनिक आणि सामाजिक विकास."
+    },
+    {
+      "id": "post_2",
+      "title": "घटक क्र. २: शिकण्याची प्रक्रिया",
+      "url": "https://www.e-gurumitra.com/2025/09/learning-process.html",
+      "thumbnail": "",
+      "description": "अध्ययनाचे विविध सिद्धांत"
+    },
+    {
+      "id": "post_3",
+      "title": "घटक क्र. ३: व्यक्तिमत्व विकास",
+      "url": "https://www.e-gurumitra.com/2025/09/personality-development.html",
+      "thumbnail": "",
+      "description": "व्यक्तिमत्व विकासाचे विविध सिद्धांत"
+    },
+    {
+      "id": "post_4",
+      "title": "घटक क्र. ४: बुद्धी आणि सर्जनशीलता",
+      "url": "https://www.e-gurumitra.com/2025/09/intelligence-and-creativity.html",
+      "thumbnail": "",
+      "description": "विविध बुद्धिमत्ता सिद्धांत"
+    },
+    {
+      "id": "post_5",
+      "title": "घटक क्र. ५: विशेष गरजा असलेली बालके व समावेशित शिक्षण",
+      "url": "https://www.e-gurumitra.com/2025/09/cwsn.html",
+      "thumbnail": "",
+      "description": "विशेष गरजा असणाऱ्या बालकांची ओळख"
+    },
+    {
+      "id": "post_6",
+      "title": "घटक क्र. ६: प्रभावी अध्यापनाचा पाया",
+      "url": "https://www.e-gurumitra.com/2025/09/basics-of-teaching.html",
+      "thumbnail": "",
+      "description": "मूलभूत संकल्पना,नियोजन"
+    },
+    {
+      "id": "post_7",
+      "title": "घटक क्र. ७: अध्यापन पद्धती",
+      "url": "https://www.e-gurumitra.com/2025/09/effective-teaching-methods.html",
+      "thumbnail": "",
+      "description": "प्रभावी अध्यापन पद्धती, त्यांचे फायदे."
+    },
+    {
+      "id": "post_8",
+      "title": "घटक क्र. ८: समावेशित शिक्षण",
+      "url": "https://www.e-gurumitra.com/2025/09/inclusive-education.html",
+      "thumbnail": "",
+      "description": "सर्व प्रकारच्या विद्यार्थ्यांना एकाच छताखाली शिक्षण"
+    },
+    {
+      "id": "post_9",
+      "title": "घटक क्र. ९: मूल्यमापन : मूलभूत संकल्पना",
+      "url": "https://www.e-gurumitra.com/2025/09/evaluation-and-tests.html",
+      "thumbnail": "",
+      "description": "सातत्यपूर्ण सर्वंकष मूल्यमापन"
+    },
+    {
+      "id": "post_10",
+      "title": "घटक क्र. १०: मूल्यमापनाची साधने",
+      "url": "https://www.e-gurumitra.com/2025/09/evaluation-tools.html",
+      "thumbnail": "",
+      "description": "साधने आणि तंत्रे, परीक्षा, निरीक्षण, प्रकल्प"
+    },
+    {
+      "id": "post_11",
+      "title": "घटक क्र. ११: अध्यापन शास्त्रातील महत्त्वाचे मानसशास्त्रज्ञ",
+      "url": "https://e-gurumitra.com/2025/09/important-psychologists-in-pedagogy.html",
+      "thumbnail": "",
+      "description": "मानसशास्त्रज्ञांच्या कार्याचा आणि सिद्धांतांचा परिचय"
+    }
+  ]
+}
