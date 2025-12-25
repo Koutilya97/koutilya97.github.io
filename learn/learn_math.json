@@ -1,0 +1,27 @@
+{
+    "subjectId": "math",
+    "title": "गणित",
+    "posts": [
+        {
+            "id": "post_1",
+            "title": "संख्या पद्धति और संख्याओं के प्रकार",
+            "url": "https://www.e-gurumitra.com/2025/12/number-system.html",
+            "thumbnail": "",
+            "description": "संख्या पद्धति और संख्याओं के प्रकार"
+        },
+        {
+            "id": "post_2",
+            "title": "विभाज्यता के नियम, सरलीकरण और संख्या पैटर्न",
+            "url": "https://www.e-gurumitra.com/2025/12/blog-post_25.html",
+            "thumbnail": "",
+            "description": "विभाज्यता के नियम, सरलीकरण और संख्या पैटर्न"
+        },
+        {
+            "id": "post_3",
+            "title": "भिन्न और दशमलव संख्याएँ",
+            "url": "https://www.e-gurumitra.com/2025/12/fractions-decimals.html",
+            "thumbnail": "",
+            "description": "भिन्न और दशमलव संख्याएँ"
+        }
+    ]
+}
