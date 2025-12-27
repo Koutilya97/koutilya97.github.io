@@ -10,5 +10,11 @@
     "title": "Need Help?",
     "message": "If you have any questions or need assistance, please visit our help center at https://www.e-gurumitra.com/p/contact-us.html for more information.",
     "date": "2024-02-26 11:00:00"
+  },
+  {
+    "id": "test_multi_link",
+    "title": "Multiple Links Test",
+    "message": "Visit Google: https://google.com or check our website: https://ctetmitra.com for more info.",
+    "date": "2024-02-27 10:30:00"
   }
 ]
