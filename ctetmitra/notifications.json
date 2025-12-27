@@ -3,14 +3,12 @@
     "id": "welcome_001",
     "title": "Welcome to CTET Mitra!",
     "message": "Thank you for installing CTET Mitra. We are here to help you ace your exams. Start by exploring our extensive collection of mock tests and study materials.",
-    "date": 1708915200000
-    
+    "date": "2024-02-26 10:00:00"
   },
   {
     "id": "help_001",
     "title": "Need Help?",
     "message": "If you have any questions or need assistance, please visit our help center at https://www.e-gurumitra.com/p/contact-us.html for more information.",
-    "date": 1708918800000,
-    "link": "https://www.e-gurumitra.com/p/contact-us.html"
+    "date": "2024-02-26 11:00:00"
   }
 ]
