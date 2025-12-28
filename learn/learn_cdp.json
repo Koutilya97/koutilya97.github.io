@@ -39,10 +39,52 @@
             "description": "Concepts of Child-centered and Progressive Education."
         },
         {
-            "id": "cdp_07",
+            "id": "cdp_06a",
             "title": "बुद्धि निर्माण एवं बहुआयामी बुद्धि",
             "url": "https://www.e-gurumitra.com/2025/12/multiple-intelligence.html",
-            "description": "ypes of Intelligence"
+            "description": "Concepts of Child-centered and Progressive Education."
+        },
+        {
+            "id": "cdp_07",
+            "title": "भाषा और चिन्तन",
+            "url": "https://www.e-gurumitra.com/2025/12/language-and-thought.html",
+            "description": "भाषा और चिन्तन"
+        },
+        {
+            "id": "cdp_08",
+            "title": "समाज निर्माण एवं लैंगिक मुद्दे",
+            "url": "https://www.e-gurumitra.com/2025/12/gender-as-social-construct.html",
+            "description": "समाज निर्माण एवं लैंगिक मुद्दे"
+        },
+        {
+            "id": "cdp_09",
+            "title": "वैयक्तिक विभिन्नता",
+            "url": "https://www.e-gurumitra.com/2025/12/individual-differences.html",
+            "description": "वैयक्तिक विभिन्नता"
+        },
+        {
+            "id": "cdp_10",
+            "title": "अधिगम का मूल्यांकन",
+            "url": "https://www.e-gurumitra.com/2025/12/evaluation-of-learning.html",
+            "description": "अधिगम का मूल्यांकन"
+        },
+        {
+            "id": "cdp_11",
+            "title": "मूल्यांकन एवं प्रश्नों का निर्माण",
+            "url": "https://www.e-gurumitra.com/2025/12/evaluation-and-question-formation.html",
+            "description": "मूल्यांकन एवं प्रश्नों का निर्माण"
+        },
+        {
+            "id": "cdp_12",
+            "title": "विविध पृष्ठभूमि के बालक",
+            "url": "https://www.e-gurumitra.com/2025/12/children-of-diverse-backgrounds.html",
+            "description": "विविध पृष्ठभूमि के बालक"
+        },
+        {
+            "id": "cdp_13",
+            "title": "समावेशी शिक्षा: विकलांगता तथा अधिगम अक्षमता",
+            "url": "https://www.e-gurumitra.com/2025/12/inclusive-education.html",
+            "description": "समावेशी शिक्षा: विकलांगता तथा अधिगम अक्षमता"
         }
     ]
 }
