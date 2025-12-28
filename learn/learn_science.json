@@ -1,0 +1,30 @@
+{
+    "subjectId": "science",
+    "title": "Science",
+    "posts": [
+        {
+            "id": "science_01",
+            "title": "भोजन: स्रोत और घटक",
+            "url": "https://www.e-gurumitra.com/2025/12/food-sources-and-components.html",
+            "description": "भोजन: स्रोत और घटक"
+        },
+        {
+            "id": "science_02",
+            "title": "अम्ल, क्षारक और लवण",
+            "url": "https://www.e-gurumitra.com/2025/12/acids-bases-and-salts.html",
+            "description": "अम्ल, क्षारक और लवण"
+        },
+        {
+            "id": "science_03",
+            "title": "मानव और जंतुओं में पाचन",
+            "url": "https://www.e-gurumitra.com/2025/12/digestion-in-humans-animals.html",
+            "description": "मानव और जंतुओं में पाचन"
+        },
+        {
+            "id": "science_04",
+            "title": "तंतु से वस्त्र तक: पूर्ण अध्ययन",
+            "url": "https://www.e-gurumitra.com/2025/12/fibre-to-fabric.html",
+            "description": "तंतु से वस्त्र तक: पूर्ण अध्ययन"
+        }
+    ]
+}

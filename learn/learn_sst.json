@@ -1,0 +1,30 @@
+{
+    "subjectId": "sst",
+    "title": "Social Studies",
+    "posts": [
+        {
+            "id": "sst_01",
+            "title": "इतिहास के स्रोत और काल-निर्धारण",
+            "url": "https://www.e-gurumitra.com/2025/12/sources-dating-in-history.html",
+            "description": "इतिहास के स्रोत और काल-निर्धारण"
+        },
+        {
+            "id": "sst_02",
+            "title": "आदिमानव: आखेटक से खाद्य संग्राहक तक",
+            "url": "https://www.e-gurumitra.com/2025/12/early-humans-hunter-gatherers.html",
+            "description": "आदिमानव: आखेटक से खाद्य संग्राहक तक"
+        },
+        {
+            "id": "sst_03",
+            "title": "नवपाषाण युग: कृषि और स्थायी जीवन",
+            "url": "https://www.e-gurumitra.com/2025/12/neolithic-age.html",
+            "description": "नवपाषाण युग: कृषि और स्थायी जीवन"
+        },
+        {
+            "id": "sst_04",
+            "title": "सिंधु घाटी सभ्यता",
+            "url": "https://www.e-gurumitra.com/2025/12/indus-civilization.html",
+            "description": "सिंधु घाटी सभ्यता"
+        }
+    ]
+}
