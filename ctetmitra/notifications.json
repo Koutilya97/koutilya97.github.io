@@ -1,20 +1,20 @@
 [
   {
     "id": "welcome_001",
-    "title": "Welcome to CTET Mitra!",
-    "message": "Thank you for installing CTET Mitra. We are here to help you ace your exams. Start by exploring our extensive collection of mock tests and study materials.",
-    "date": "2024-02-26 10:00:00"
+    "title": "WELCOME to TET Mitra!",
+    "message": "TET मित्र ऍप डाउनलोड केल्याबद्दल धन्यवाद !  लेख वाचा, चाचणी सोडवा, प्रश्नपत्रिका सराव करा.",
+    "date": "2025-12-28 17:13:00"
   },
   {
     "id": "help_001",
     "title": "Need Help?",
-    "message": "If you have any questions or need assistance, please visit our help center at https://www.e-gurumitra.com/p/contact-us.html for more information.",
+    "message": "अधिक माहितीसाठी TET मित्र ऍप च्या अधिकृत पेज ला भेट द्या :  https://www.e-gurumitra.com/p/ctet-mitra.html.",
     "date": "2024-02-26 11:00:00"
   },
   {
     "id": "test_multi_link",
-    "title": "Multiple Links Test",
-    "message": "Visit Google: https://google.com or check our website: https://ctetmitra.com for more info.",
+    "title": "प्रो ऍक्टिव्हशन कसे करावे ?",
+    "message": "ऍप च्या होम स्क्रीन वर वरील उजव्या कोपऱ्यातील तीन आडव्या रेषांवर क्लिक करा -> Activation वर क्लिक करा -> App Fingerprint कॉपी करा -> फोन पे द्वारे पेमेंट करा व App Fingerprint पाठवा -> मिळालेला Activation code ऍप च्या activation स्क्रीन मध्ये पेस्ट करा. आपले प्रो ऍप activate होईल.",
     "date": "2024-02-27 10:30:00"
   }
 ]
