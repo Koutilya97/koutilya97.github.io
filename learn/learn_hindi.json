@@ -16,15 +16,63 @@
         },
         {
             "id": "hindi_03",
-            "title": "भाषा विकास के प्रमुख मनोवैज्ञानिक सिद्धांत",
+            "title": "भाषा विकास - मनोवैज्ञानिक सिद्धांत",
             "url": "https://www.e-gurumitra.com/2025/12/theories-of-language-development.html",
             "description": "Major Psychological Theories of Language Development."
         },
         {
-            "id": "hindi_04",
-            "title": "भाषा शिक्षण के सिद्धान्त एवं शिक्षण सूत्र",
+            "id": "hindi_03a",
+            "title": "भाषा शिक्षण के सिद्धान्त",
             "url": "https://www.e-gurumitra.com/2025/12/principles-of-language-teaching.html",
             "description": "Major Psychological Theories of Language Development."
+        },
+        {
+            "id": "hindi_04",
+            "title": "भाषा के कार्य",
+            "url": "https://www.e-gurumitra.com/2025/12/language-functions.html",
+            "description": "भाषा के कार्य"
+        },
+        {
+            "id": "hindi_05",
+            "title": "भाषा अधिगम और व्याकरण",
+            "url": "https://www.e-gurumitra.com/2025/12/role-of-grammar.html",
+            "description": "भाषा अधिगम और व्याकरण"
+        },
+        {
+            "id": "hindi_06",
+            "title": "भाषायी विविधता वाली कक्षा",
+            "url": "https://www.e-gurumitra.com/2025/12/multilingual-classroom.html",
+            "description": "भाषायी विविधता वाली कक्षा"
+        },
+        {
+            "id": "hindi_07",
+            "title": "भाषा कौशल: श्रवण और पठन",
+            "url": "https://www.e-gurumitra.com/2025/12/listening-and-reading.html",
+            "description": "भाषा कौशल: श्रवण और पठन"
+        },
+        {
+            "id": "hindi_08",
+            "title": "भाषा कौशल : भाषण और लेखन",
+            "url": "https://www.e-gurumitra.com/2025/12/productive-skills.html",
+            "description": "भाषा कौशल : भाषण और लेखन"
+        },
+        {
+            "id": "hindi_09",
+            "title": "भाषा कौशल में प्रवीणता का मूल्यांकन",
+            "url": "https://www.e-gurumitra.com/2025/12/evaluation-of-language-skills.html",
+            "description": "भाषा कौशल में प्रवीणता का मूल्यांकन"
+        },
+        {
+            "id": "hindi_10",
+            "title": "शिक्षण सहायक सामग्री (TLM)",
+            "url": "https://www.e-gurumitra.com/2025/12/tlm.html",
+            "description": "शिक्षण सहायक सामग्री (TLM)"
+        },
+        {
+            "id": "hindi_11",
+            "title": "निदानात्मक और उपचारात्मक शिक्षण",
+            "url": "https://www.e-gurumitra.com/2025/12/diagnostic-remedial-teaching.html",
+            "description": "निदानात्मक और उपचारात्मक शिक्षण"
         }
     ]
 }
