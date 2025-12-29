@@ -1,0 +1,18 @@
+{
+    "subjectId": "evs",
+    "title": "Environmental Studies",
+    "posts": [
+        {
+            "id": "evs_01",
+            "title": "परिवार एवं मित्र",
+            "url": "https://www.e-gurumitra.com/2025/12/family-and-friends.html",
+            "description": "परिवार एवं मित्र"
+        },
+        {
+            "id": "evs_02",
+            "title": "पौधे और जन्तु",
+            "url": "https://www.e-gurumitra.com/2025/12/plants-and-animals.html",
+            "description": "पौधे और जन्तु"
+        }
+    ]
+}
