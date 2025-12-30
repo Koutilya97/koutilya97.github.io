@@ -94,9 +94,15 @@
         },
         {
             "id": "cdp_15",
-            "title": "बच्चों में सोचना, सीखना और अधिसंज्ञानषा",
+            "title": "बच्चों में सोचना, सीखना और अधिसंज्ञान",
             "url": "https://www.e-gurumitra.com/2025/12/thinking-and-learning.html",
             "description": "बच्चों में सोचना, सीखना और अधिसंज्ञान"
+        },
+        {
+            "id": "cdp_16",
+            "title": "शिक्षण-अधिगम प्रक्रियाएँ और प्रमुख सिद्धांत",
+            "url": "https://www.e-gurumitra.com/2025/12/teaching-learning-process.html",
+            "description": "शिक्षण-अधिगम प्रक्रियाएँ और प्रमुख सिद्धांत"
         }
     ]
 }
