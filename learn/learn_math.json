@@ -57,6 +57,27 @@
             "url": "https://www.e-gurumitra.com/2026/01/3d.html",
             "thumbnail": "",
             "description": "3D आकृतियाँ और स्थानिक समझ"
+        },
+        {
+            "id": "post_9",
+            "title": "औसत और प्रतिशत",
+            "url": "https://www.e-gurumitra.com/2026/01/average-percentage.html",
+            "thumbnail": "",
+            "description": "औसत और प्रतिशत"
+        },
+        {
+            "id": "post_10",
+            "title": "व्यापारिक गणित: लाभ-हानि और ब्याज",
+            "url": "https://www.e-gurumitra.com/2026/01/profit-loss-interest.html",
+            "thumbnail": "",
+            "description": "व्यापारिक गणित: लाभ-हानि और ब्याज"
+        },
+        {
+            "id": "post_11",
+            "title": "समय, चाल, दूरी और यातायात",
+            "url": "https://www.e-gurumitra.com/2026/01/distance-motion.html",
+            "thumbnail": "",
+            "description": "समय, चाल, दूरी और यातायात"
         }
     ]
 }
