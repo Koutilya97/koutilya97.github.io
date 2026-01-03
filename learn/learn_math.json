@@ -78,6 +78,13 @@
             "url": "https://www.e-gurumitra.com/2026/01/distance-motion.html",
             "thumbnail": "",
             "description": "समय, चाल, दूरी और यातायात"
+        },
+        {
+            "id": "post_12",
+            "title": "आँकड़ों का प्रबन्धन और प्रतिरूप",
+            "url": "https://www.e-gurumitra.com/2026/01/data-handling-patterns.html",
+            "thumbnail": "",
+            "description": "आँकड़ों का प्रबन्धन और प्रतिरूप"
         }
     ]
 }
