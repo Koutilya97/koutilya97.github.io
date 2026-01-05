@@ -120,6 +120,27 @@
             "url": "https://www.e-gurumitra.com/2026/01/evaluation-in-mathematics.html",
             "thumbnail": "",
             "description": "गणित शिक्षण में मूल्यांकन"
+        },
+        {
+            "id": "post_18",
+            "title": "गणित शिक्षण में चुनौतियाँ",
+            "url": "https://www.e-gurumitra.com/2026/01/blog-post.html",
+            "thumbnail": "",
+            "description": "गणित शिक्षण में चुनौतियाँ"
+        },
+        {
+            "id": "post_19",
+            "title": "गणित शिक्षण में त्रुटि विश्लेषण",
+            "url": "https://www.e-gurumitra.com/2026/01/error-analysis-in-mathematics.html",
+            "thumbnail": "",
+            "description": "गणित शिक्षण में त्रुटि विश्लेषण"
+        },
+        {
+            "id": "post_20",
+            "title": "गणित शिक्षण में नैदानिक एवं उपचारात्मक शिक्षण",
+            "url": "https://www.e-gurumitra.com/2026/01/math-remedial-teaching.html",
+            "thumbnail": "",
+            "description": "गणित शिक्षण में नैदानिक एवं उपचारात्मक शिक्षण"
         }
     ]
 }
