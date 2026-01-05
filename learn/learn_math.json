@@ -85,6 +85,41 @@
             "url": "https://www.e-gurumitra.com/2026/01/data-handling-patterns.html",
             "thumbnail": "",
             "description": "आँकड़ों का प्रबन्धन और प्रतिरूप"
+        },
+        {
+            "id": "post_13",
+            "title": "गणित का स्वरूप",
+            "url": "https://www.e-gurumitra.com/2026/01/nature-of-mathematics.html",
+            "thumbnail": "",
+            "description": "गणित का स्वरूप: अवधारणा, परिभाषाएँ और शिक्षण शास्त्र"
+        },
+        {
+            "id": "post_14",
+            "title": "विद्यालयी पाठ्यक्रम में गणित का स्थान",
+            "url": "https://www.e-gurumitra.com/2026/01/mathematics-in-curriculum.html",
+            "thumbnail": "",
+            "description": "विद्यालयी पाठ्यक्रम में गणित का स्थान"
+        },
+        {
+            "id": "post_15",
+            "title": "गणितीय भाषा और शिक्षण शास्त्र",
+            "url": "https://www.e-gurumitra.com/2026/01/language-of-mathematics.html",
+            "thumbnail": "",
+            "description": "गणितीय भाषा और शिक्षण शास्त्र"
+        },
+        {
+            "id": "post_16",
+            "title": "सामुदायिक गणित",
+            "url": "https://www.e-gurumitra.com/2026/01/community-mathematics.html",
+            "thumbnail": "",
+            "description": "सामुदायिक गणित"
+        },
+        {
+            "id": "post_17",
+            "title": "गणित शिक्षण में मूल्यांकन",
+            "url": "https://www.e-gurumitra.com/2026/01/evaluation-in-mathematics.html",
+            "thumbnail": "",
+            "description": "गणित शिक्षण में मूल्यांकन"
         }
     ]
 }
