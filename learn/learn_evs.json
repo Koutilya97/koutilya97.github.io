@@ -37,6 +37,18 @@
             "title": "यातायात और परिवहन",
             "url": "https://www.e-gurumitra.com/2026/01/transport.html",
             "description": "यातायात और परिवहन"
+        },
+        {
+            "id": "evs_07",
+            "title": "निर्माण एवं कला: पदार्थ, तकनीक और भारतीय संस्कृति",
+            "url": "https://www.e-gurumitra.com/2026/01/production-and-arts.html",
+            "description": "निर्माण एवं कला: पदार्थ, तकनीक और भारतीय संस्कृति"
+        },
+        {
+            "id": "evs_08",
+            "title": "पर्यावरण एवं पारिस्थितिकी",
+            "url": "https://www.e-gurumitra.com/2026/01/environment-and-ecology.html",
+            "description": "पर्यावरण एवं पारिस्थितिकी"
         }
     ]
 }
