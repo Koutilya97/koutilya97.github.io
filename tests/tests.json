@@ -6,5 +6,13 @@
         "description": "Child Development & Pedagogy Practice",
         "category": "CTET",
         "type": "TEST_SERIES"
+    },
+    {
+        "id": "ts_marathi_01",
+        "title": "Marathi Test Series 01",
+        "filename": "enc_ts_marathi_01_ready.json",
+        "description": "Marathi Language Practice",
+        "category": "CTET",
+        "type": "TEST_SERIES"
     }
 ]
