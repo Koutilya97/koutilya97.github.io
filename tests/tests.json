@@ -1,1 +1,10 @@
-
+[
+    {
+        "id": "ts_cdp_01",
+        "title": "CDP Test Series 01",
+        "filename": "ts_cdp_01.json",
+        "description": "Child Development & Pedagogy Practice",
+        "category": "CTET",
+        "type": "TEST_SERIES"
+    }
+]
