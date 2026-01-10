@@ -22,5 +22,11 @@
         "title": "CTET Paper 1 (Jul 2024)",
         "filename": "enc_paper1_jul24_ready.json",
         "description": "L1 hindi, L2 english"
+    },
+    {
+        "id": "paper2_jul24",
+        "title": "CTET Paper 2 (Jul 2024)",
+        "filename": "enc_paper2_jul24_ready.json",
+        "description": "L1 hindi, L2 english"
     }
 ]
