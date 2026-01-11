@@ -1,5 +1,25 @@
 [
     {
+        "id": "paper1_dec24",
+        "title": "CTET Paper 1 (Dec 2024)",
+        "filename": "enc_paper1_dec24_ready.json",
+        "description": "L1 hindi, L2 english",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    }, 
+    {
+        "id": "paper1_jul24_v2",
+        "title": "CTET Paper 1 (Jul 2024)",
+        "filename": "enc_paper1_jul24_ready.json",
+        "description": "L1 hindi, L2 english"
+    },
+    {
+        "id": "paper2_jul24",
+        "title": "CTET Paper 2 (Jul 2024)",
+        "filename": "enc_paper2_jul24_ready.json",
+        "description": "L1 hindi, L2 english"
+    },
+    {
         "id": "paper1_jan24_v4",
         "title": "CTET Paper 1 (Jan 2024)",
         "filename": "enc_paper1_jan24_edited_ready.json",
@@ -18,15 +38,11 @@
         "description": "L1 hindi, L2 english"
     },
     {
-        "id": "paper1_jul24_v2",
-        "title": "CTET Paper 1 (Jul 2024)",
-        "filename": "enc_paper1_jul24_ready.json",
-        "description": "L1 hindi, L2 english"
-    },
-    {
-        "id": "paper2_jul24",
-        "title": "CTET Paper 2 (Jul 2024)",
-        "filename": "enc_paper2_jul24_ready.json",
-        "description": "L1 hindi, L2 english"
+        "id": "paper2_aug23",
+        "title": "CTET Paper 2 (Aug 2023)",
+        "filename": "enc_Paper2_Agu23_ready.json",
+        "description": "Social Science",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
