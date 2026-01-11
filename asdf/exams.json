@@ -8,6 +8,14 @@
         "type": "PREVIOUS_YEAR_QUESTION"
     }, 
     {
+        "id": "paper2_14dec24",
+        "title": "CTET Paper 2 (14 Dec 2024)",
+        "filename": "enc_Paper2_14dec24_ready.json",
+        "description": "Social Science",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    }, 
+    {
         "id": "paper1_jul24_v2",
         "title": "CTET Paper 1 (Jul 2024)",
         "filename": "enc_paper1_jul24_ready.json",
