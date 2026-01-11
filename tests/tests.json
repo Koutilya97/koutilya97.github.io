@@ -70,5 +70,21 @@
         "description": "100 प्रश्न",
         "category": "CTET",
         "type": "TEST_SERIES"
+    },
+    {
+        "id": "ts_math_01",
+        "title": "गणित प्रश्नावली १",
+        "filename": "enc_ts_math_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "CTET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "ts_math_02",
+        "title": "गणित प्रश्नावली २",
+        "filename": "enc_ts_math_02_ready.json",
+        "description": "100 प्रश्न",
+        "category": "CTET",
+        "type": "TEST_SERIES"
     }
 ]
