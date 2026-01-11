@@ -1,17 +1,25 @@
 [
     {
         "id": "ts_marathi_01_v2",
-        "title": "Marathi Test Series 01",
+        "title": "मराठी सर्व चाचणी १",
         "filename": "enc_ts_marathi_01_ready.json",
-        "description": "Marathi Language Practice Test",
+        "description": "१००  प्रश्न",
         "category": "CTET",
         "type": "TEST_SERIES"
     },
     {
         "id": "ts_marathi_02",
-        "title": "Marathi Test 2",
+        "title": "मराठी सर्व चाचणी २",
         "filename": "enc_ts_marathi_02_ready.json",
-        "description": "Marathi Language Practice Test",
+        "description": "११०  प्रश्न",
+        "category": "CTET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "ts_marathi_03",
+        "title": "मराठी सर्व चाचणी ३",
+        "filename": "enc_ts_marathi_03_ready.json",
+        "description": "१०५ प्रश्न",
         "category": "CTET",
         "type": "TEST_SERIES"
     }
