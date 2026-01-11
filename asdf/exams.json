@@ -66,10 +66,26 @@
         "description": "L1 hindi, L2 english"
     },
     {
+        "id": "paper1_mar_jan24",
+        "title": "CTET Paper 1 Marathi (Jan 2024)",
+        "filename": "enc_paper1_mar_jan24_ready.json",
+        "description": "Marathi Language",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
         "id": "paper2_jan24",
         "title": "CTET Paper 2 (Jan 2024)",
         "filename": "enc_paper2_jan24_ready.json",
         "description": "Social Science"
+    },
+    {
+        "id": "paper2_mar_jan24",
+        "title": "CTET Paper 2 Marathi (Jan 2024)",
+        "filename": "enc_paper2_mar_jan24_ready.json",
+        "description": "Marathi Language",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
     },
     {
         "id": "paper1_agu23",
