@@ -46,5 +46,13 @@
         "description": "100 प्रश्न",
         "category": "CTET",
         "type": "TEST_SERIES"
+    },
+    {
+        "id": "ts_hindi_02",
+        "title": "हिंदी प्रश्नावली २",
+        "filename": "enc_ts_hindi_02_ready.json",
+        "description": "100 प्रश्न",
+        "category": "CTET",
+        "type": "TEST_SERIES"
     }
 ]
