@@ -1,17 +1,17 @@
 [
     {
-        "id": "ts_cdp_01",
-        "title": "CDP Test Series 01",
-        "filename": "ts_cdp_01.json",
-        "description": "Child Development & Pedagogy Practice",
+        "id": "ts_marathi_01_v2",
+        "title": "Marathi Test Series 01",
+        "filename": "enc_ts_marathi_01_ready.json",
+        "description": "Marathi Language Practice Test",
         "category": "CTET",
         "type": "TEST_SERIES"
     },
     {
-        "id": "ts_marathi_01_v2",
-        "title": "Marathi Test Series 01",
-        "filename": "enc_ts_marathi_01_ready.json",
-        "description": "Marathi Language Practice",
+        "id": "ts_marathi_02",
+        "title": "Marathi Test 2",
+        "filename": "enc_ts_marathi_02_ready.json",
+        "description": "Marathi Language Practice Test",
         "category": "CTET",
         "type": "TEST_SERIES"
     }
