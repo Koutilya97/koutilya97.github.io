@@ -30,5 +30,13 @@
         "description": "100 प्रश्न",
         "category": "CTET",
         "type": "TEST_SERIES"
+    },
+    {
+        "id": "ts_cdp_03",
+        "title": "बालमनोविज्ञानं एवं शिक्षाशास्त्र २",
+        "filename": "enc_ts_cdp_02_ready.json",
+        "description": "120 प्रश्न",
+        "category": "CTET",
+        "type": "TEST_SERIES"
     }
 ]
