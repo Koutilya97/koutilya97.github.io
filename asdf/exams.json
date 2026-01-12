@@ -116,5 +116,21 @@
         "description": "Marathi Language",
         "category": "CTET",
         "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+        "id": "paper1_22",
+        "title": "CTET Paper 1 (2022)",
+        "filename": "enc_paper1_22_ready.json",
+        "description": "L1-Hindi, L2-english",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+        "id": "paper2_22",
+        "title": "CTET Paper 2 (2022)",
+        "filename": "enc_paper2_22_ready.json",
+        "description": "L1_English, L2-Hindi",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
