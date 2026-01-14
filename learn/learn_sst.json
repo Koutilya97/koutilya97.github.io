@@ -199,6 +199,78 @@
             "title": "ग्लोब: अक्षांश और देशांतर",
             "url": "https://www.e-gurumitra.com/2026/01/globe-latitude-and-longitude.html",
             "description": "ग्लोब: अक्षांश और देशांतर"
+        },
+        {
+            "id": "sst_34",
+            "title": "पृथ्वी की गतियाँ",
+            "url": "https://www.e-gurumitra.com/2026/01/motions-of-earth.html",
+            "description": "पृथ्वी की गतियाँ"
+        },
+        {
+            "id": "sst_35",
+            "title": "मानचित्र",
+            "url": "https://www.e-gurumitra.com/2026/01/maps.html",
+            "description": "मानचित्र"
+        },
+        {
+            "id": "sst_36",
+            "title": "पृथ्वी के प्रमुख परिमंडल",
+            "url": "https://www.e-gurumitra.com/2026/01/major-domains.html",
+            "description": "पृथ्वी के प्रमुख परिमंडल"
+        },
+        {
+            "id": "sst_37",
+            "title": "पृथ्वी के प्रमुख स्थलरूप",
+            "url": "https://www.e-gurumitra.com/2026/01/major-landforms.html",
+            "description": "पृथ्वी के प्रमुख स्थलरूप"
+        },
+        {
+            "id": "sst_38",
+            "title": "हमारा देश: भारत",
+            "url": "https://www.e-gurumitra.com/2026/01/our-country-india.html",
+            "description": "हमारा देश: भारत"
+        },
+        {
+            "id": "sst_39",
+            "title": "भारत: जलवायु, वनस्पति तथा वन्य प्राणी",
+            "url": "https://www.e-gurumitra.com/2026/01/weather-india.html",
+            "description": "भारत: जलवायु, वनस्पति तथा वन्य प्राणी"
+        },
+        {
+            "id": "sst_40",
+            "title": "पर्यावरण",
+            "url": "https://www.e-gurumitra.com/2026/01/environment.html",
+            "description": "पर्यावरण"
+        },
+        {
+            "id": "sst_41",
+            "title": "हमारी पृथ्वी के अंदर",
+            "url": "https://www.e-gurumitra.com/2026/01/inside-our-earth.html",
+            "description": "हमारी पृथ्वी के अंदर"
+        },
+        {
+            "id": "sst_42",
+            "title": "हमारी बदलती पृथ्वी",
+            "url": "https://www.e-gurumitra.com/2026/01/our-changing-earth.html",
+            "description": "हमारी बदलती पृथ्वी"
+        },
+        {
+            "id": "sst_43",
+            "title": "जल",
+            "url": "https://www.e-gurumitra.com/2026/01/water_14.html",
+            "description": "जल"
+        },
+        {
+            "id": "sst_44",
+            "title": "वायु",
+            "url": "https://www.e-gurumitra.com/2026/01/air.html",
+            "description": "वायु"
+        },
+        {
+            "id": "sst_45",
+            "title": "प्राकृतिक वनस्पति और वन्य जीवन",
+            "url": "https://www.e-gurumitra.com/2026/01/natural-vegetation.html",
+            "description": "प्राकृतिक वनस्पति और वन्य जीवन"
         }
     ]
 }
