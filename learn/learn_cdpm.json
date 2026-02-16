@@ -4,13 +4,27 @@
   "posts": [
     {
       "id": "post_1",
+      "title": "मानसशास्त्र: व्याख्या, उगम आणि आधुनिक स्वरूप",
+      "url": "https://www.e-gurumitra.com/2026/02/psychology.html",
+      "thumbnail": "",
+      "description": "शमानसशास्त्र: व्याख्या, उगम आणि आधुनिक स्वरूप"
+    },
+    {
+      "id": "post_2",
+      "title": "शैक्षणिक मानसशास्त्र: स्वरूप, व्याप्ती आणि गरज",
+      "url": "https://www.e-gurumitra.com/2026/02/child-psychology.html",
+      "thumbnail": "",
+      "description": "शैक्षणिक मानसशास्त्र: स्वरूप, व्याप्ती आणि गरज"
+    },
+    {
+      "id": "post_1a",
       "title": "घटक क्र. १: बालकांचा विकास",
       "url": "https://www.e-gurumitra.com/2025/09/child-development.html",
       "thumbnail": "",
       "description": "शारीरिक, मानसिक, भावनिक आणि सामाजिक विकास."
     },
     {
-      "id": "post_2",
+      "id": "post_2a",
       "title": "घटक क्र. २: शिकण्याची प्रक्रिया",
       "url": "https://www.e-gurumitra.com/2025/09/learning-process.html",
       "thumbnail": "",
