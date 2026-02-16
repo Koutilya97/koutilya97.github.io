@@ -1,1 +1,18 @@
-
+{
+    "subjectId": "mathm",
+    "title": "Maths",
+    "posts": [
+        {
+            "id": "mathm_01",
+            "title": "संख्यांचे प्रकार आणि स्थानिक किंमत",
+            "url": "https://www.e-gurumitra.com/2026/02/numbers.html",
+            "description": "संख्यांचे प्रकार आणि स्थानिक किंमत"
+        },
+        {
+            "id": "mathm_02",
+            "title": "रोमन संख्याचिन्हे",
+            "url": "https://www.e-gurumitra.com/2026/02/roman-numbers.html",
+            "description": "रोमन संख्याचिन्हे"
+        }
+    ]
+}
