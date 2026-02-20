@@ -132,5 +132,13 @@
         "description": "L1_English, L2-Hindi",
         "category": "CTET",
         "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p1_25",
+       "title": "TET Paper 1 - 2025",
+       "filename": "enc_tet_pyq_p1_25_ready.json",
+       "description": "L1_Marathi, L2-English",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
