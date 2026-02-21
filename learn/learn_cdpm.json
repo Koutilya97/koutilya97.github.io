@@ -37,6 +37,48 @@
       "thumbnail": "",
       "description": "वाढ आणि विकास"
     },
+     {
+      "id": "post_6",
+      "title": "विकासाच्या अवस्था: शैशवावस्था व बाल्यावस्था",
+      "url": "https://www.e-gurumitra.com/2026/02/stages1.html",
+      "thumbnail": "",
+      "description": "विकासाच्या अवस्था: शैशवावस्था व बाल्यावस्था"
+    },
+     {
+      "id": "post_7",
+      "title": "पौगंडावस्था: आव्हाने व मार्गदर्शन",
+      "url": "https://www.e-gurumitra.com/2026/02/adolescence.html",
+      "thumbnail": "",
+      "description": "पौगंडावस्था: आव्हाने व मार्गदर्शन"
+    },
+     {
+      "id": "post_8",
+      "title": "विकासाचे सिद्धांत",
+      "url": "https://www.e-gurumitra.com/2026/02/developmental-theories.html",
+      "thumbnail": "",
+      "description": "विकासाचे सिद्धांत"
+    },
+     {
+      "id": "post_9",
+      "title": "अनुवंश आणि परिस्थिती",
+      "url": "https://www.e-gurumitra.com/2026/02/heredity-vs-environment.html",
+      "thumbnail": "",
+      "description": "अनुवंश आणि परिस्थिती"
+    },
+     {
+      "id": "post_10",
+      "title": "अध्ययन प्रक्रिया : स्वरूप व व्याप्ती",
+      "url": "https://www.e-gurumitra.com/2026/02/learning-process.html",
+      "thumbnail": "",
+      "description": "अध्ययन प्रक्रिया : स्वरूप व व्याप्ती"
+    },
+     {
+      "id": "post_11",
+      "title": "अध्ययन वक्र आणि पठारावस्था",
+      "url": "https://www.e-gurumitra.com/2026/02/learning-curve-plateau.html",
+      "thumbnail": "",
+      "description": "अध्ययन वक्र आणि पठारावस्था"
+    },
     {
       "id": "post_1a",
       "title": "घटक क्र. १: बालकांचा विकास",
@@ -73,42 +115,42 @@
       "description": "विशेष गरजा असणाऱ्या बालकांची ओळख"
     },
     {
-      "id": "post_6",
+      "id": "post_6a",
       "title": "घटक क्र. ६: प्रभावी अध्यापनाचा पाया",
       "url": "https://www.e-gurumitra.com/2025/09/basics-of-teaching.html",
       "thumbnail": "",
       "description": "मूलभूत संकल्पना,नियोजन"
     },
     {
-      "id": "post_7",
+      "id": "post_7a",
       "title": "घटक क्र. ७: अध्यापन पद्धती",
       "url": "https://www.e-gurumitra.com/2025/09/effective-teaching-methods.html",
       "thumbnail": "",
       "description": "प्रभावी अध्यापन पद्धती, त्यांचे फायदे."
     },
     {
-      "id": "post_8",
+      "id": "post_8a",
       "title": "घटक क्र. ८: समावेशित शिक्षण",
       "url": "https://www.e-gurumitra.com/2025/09/inclusive-education.html",
       "thumbnail": "",
       "description": "सर्व प्रकारच्या विद्यार्थ्यांना एकाच छताखाली शिक्षण"
     },
     {
-      "id": "post_9",
+      "id": "post_9a",
       "title": "घटक क्र. ९: मूल्यमापन : मूलभूत संकल्पना",
       "url": "https://www.e-gurumitra.com/2025/09/evaluation-and-tests.html",
       "thumbnail": "",
       "description": "सातत्यपूर्ण सर्वंकष मूल्यमापन"
     },
     {
-      "id": "post_10",
+      "id": "post_10a",
       "title": "घटक क्र. १०: मूल्यमापनाची साधने",
       "url": "https://www.e-gurumitra.com/2025/09/evaluation-tools.html",
       "thumbnail": "",
       "description": "साधने आणि तंत्रे, परीक्षा, निरीक्षण, प्रकल्प"
     },
     {
-      "id": "post_11",
+      "id": "post_11a",
       "title": "घटक क्र. ११: अध्यापन शास्त्रातील महत्त्वाचे मानसशास्त्रज्ञ",
       "url": "https://e-gurumitra.com/2025/09/important-psychologists-in-pedagogy.html",
       "thumbnail": "",
