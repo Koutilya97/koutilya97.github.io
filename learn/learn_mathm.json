@@ -31,6 +31,30 @@
             "title": "विभाज्यतेच्या कसोट्या आणि बाकी",
             "url": "https://www.e-gurumitra.com/2026/02/divisibility.html",
             "description": "विभाज्यतेच्या कसोट्या आणि बाकी"
+        },
+        {
+            "id": "mathm_06",
+            "title": "वर्ग आणि वर्गमूळ",
+            "url": "https://www.e-gurumitra.com/2026/02/square-and-root.html",
+            "description": "वर्ग आणि वर्गमूळ"
+        },
+        {
+            "id": "mathm_07",
+            "title": "घन-घनमूळ",
+            "url": "https://www.e-gurumitra.com/2026/02/cube-root.html",
+            "description": "घन-घनमूळ"
+        },
+        {
+            "id": "mathm_08",
+            "title": "अपूर्णांक",
+            "url": "https://www.e-gurumitra.com/2026/02/fractions.html",
+            "description": "अपूर्णांक"
+        },
+        {
+            "id": "mathm_09",
+            "title": "घातांक",
+            "url": "https://www.e-gurumitra.com/2026/02/indices.html",
+            "description": "घातांक"
         }
     ]
 }
