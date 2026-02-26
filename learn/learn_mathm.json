@@ -55,6 +55,30 @@
             "title": "घातांक",
             "url": "https://www.e-gurumitra.com/2026/02/indices.html",
             "description": "घातांक"
+        },
+        {
+            "id": "mathm_10",
+            "title": "चलन, काळ-काम आणि नळ-टाकी",
+            "url": "https://www.e-gurumitra.com/2026/02/variation.html",
+            "description": "चलन, काळ-काम आणि नळ-टाकी"
+        },
+        {
+            "id": "mathm_11",
+            "title": "काळ, काम आणि वेग",
+            "url": "https://www.e-gurumitra.com/2026/02/time-speed-and-distance.html",
+            "description": "घकाळ, काम आणि वेग"
+        },
+        {
+            "id": "mathm_12",
+            "title": "गुणोत्तर, प्रमाण आणि भागीदारी",
+            "url": "https://www.e-gurumitra.com/2026/02/ratio.html",
+            "description": "घगुणोत्तर, प्रमाण आणि भागीदारी"
+        },
+        {
+            "id": "mathm_13",
+            "title": "शेकडेवारी",
+            "url": "https://www.e-gurumitra.com/2026/02/percentage.html",
+            "description": "शेकडेवारी"
         }
     ]
 }
