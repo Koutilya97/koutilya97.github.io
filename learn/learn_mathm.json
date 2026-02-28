@@ -1,6 +1,6 @@
 {
     "subjectId": "mathm",
-    "title": "Maths",
+    "title": "गणित",
     "posts": [
         {
             "id": "mathm_01",
@@ -79,6 +79,42 @@
             "title": "शेकडेवारी",
             "url": "https://www.e-gurumitra.com/2026/02/percentage.html",
             "description": "शेकडेवारी"
+        },
+        {
+            "id": "mathm_14",
+            "title": "सरासरी",
+            "url": "https://www.e-gurumitra.com/2026/02/average.html",
+            "description": "सरासरी"
+        },
+        {
+            "id": "mathm_15",
+            "title": "नफा आणि तोटा",
+            "url": "https://www.e-gurumitra.com/2026/02/profit-and-loss.html",
+            "description": "नफा आणि तोटा"
+        },
+        {
+            "id": "mathm_16",
+            "title": "सरळ व्याज व चक्रवाढ व्याज",
+            "url": "https://www.e-gurumitra.com/2026/02/interest.html",
+            "description": "सरळ व्याज व चक्रवाढ व्याज"
+        },
+        {
+            "id": "mathm_17",
+            "title": "वयवारी",
+            "url": "https://www.e-gurumitra.com/2026/02/ages.html",
+            "description": "वयवारी"
+        },
+        {
+            "id": "mathm_18",
+            "title": "मापन",
+            "url": "https://www.e-gurumitra.com/2026/02/measurement.html",
+            "description": "मापन"
+        },
+        {
+            "id": "mathm_19",
+            "title": "कोन",
+            "url": "https://www.e-gurumitra.com/2026/02/angle.html",
+            "description": "कोन"
         }
     ]
 }
