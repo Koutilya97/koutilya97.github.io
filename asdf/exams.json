@@ -140,5 +140,13 @@
        "description": "L1_Marathi, L2-English",
        "category": "MAHA_TET",
        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_soc_25",
+       "title": "TET Paper 2 - 2025",
+       "filename": "enc_tet_p2_soc_25_ready.json",
+       "description": "L1_Marathi, L2-English, SOC",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
