@@ -127,6 +127,24 @@
             "title": "त्रिकोणाचे गुणधर्म आणि क्षेत्रफळ",
             "url": "https://www.e-gurumitra.com/2026/03/properties-of-triangle.html",
             "description": "कत्रिकोणाचे गुणधर्म आणि क्षेत्रफळ"
+        },
+        {
+            "id": "mathm_22",
+            "title": "त्रिकोणाची एकरूपता आणि समरूपता",
+            "url": "https://www.e-gurumitra.com/2026/03/congruence-similarity-of-triangles.html",
+            "description": "त्रिकोणाची एकरूपता आणि समरूपता"
+        },
+        {
+            "id": "mathm_23",
+            "title": "पायथागोरसचा सिद्धांत",
+            "url": "https://www.e-gurumitra.com/2026/03/pythagoras-theorem_10.html",
+            "description": "पायथागोरसचा सिद्धांत"
+        },
+        {
+            "id": "mathm_24",
+            "title": "त्रिकोणातील एकसंपात",
+            "url": "https://www.e-gurumitra.com/2026/03/concurrency-in-triangles.html",
+            "description": "त्रिकोणातील एकसंपात"
         }
     ]
 }
