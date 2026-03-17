@@ -145,6 +145,24 @@
             "title": "त्रिकोणातील एकसंपात",
             "url": "https://www.e-gurumitra.com/2026/03/concurrency-in-triangles.html",
             "description": "त्रिकोणातील एकसंपात"
+        },
+        {
+            "id": "mathm_25",
+            "title": "वर्तुळ - भूमितीचा आधार",
+            "url": "https://www.e-gurumitra.com/2026/03/circles-part-1.html",
+            "description": "वर्तुळ - भूमितीचा आधार"
+        },
+        {
+            "id": "mathm_26",
+            "title": "वर्तुळखंड, क्षेत्रफळ आणि चक्रीय चौकोन",
+            "url": "https://www.e-gurumitra.com/2026/03/circles-part2.html",
+            "description": "वर्तुळखंड, क्षेत्रफळ आणि चक्रीय चौकोन"
+        },
+        {
+            "id": "mathm_27",
+            "title": "चौकोन : भाग 1",
+            "url": "https://www.e-gurumitra.com/2026/03/1-quadrilaterals-p.html",
+            "description": "चौकोन : भाग 1"
         }
     ]
 }
