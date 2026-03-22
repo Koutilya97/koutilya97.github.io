@@ -163,6 +163,60 @@
             "title": "चौकोन : भाग 1",
             "url": "https://www.e-gurumitra.com/2026/03/1-quadrilaterals-p.html",
             "description": "चौकोन : भाग 1"
+        },
+        {
+            "id": "mathm_28",
+            "title": "चौकोन भाग 2",
+            "url": "https://www.e-gurumitra.com/2026/03/2-quadrilaterals.html",
+            "description": "चौकोन : भाग 1"
+        },
+        {
+            "id": "mathm_29",
+            "title": "त्रिमितीय भूमिती: इष्टीकचिती आणि घन",
+            "url": "https://www.e-gurumitra.com/2026/03/cuboid-and-cube.html",
+            "description": "त्रिमितीय भूमिती: इष्टीकचिती आणि घन"
+        },
+        {
+            "id": "mathm_30",
+            "title": "त्रिमितीय भूमिती - वक्रपृष्ठ आकृत्या",
+            "url": "https://www.e-gurumitra.com/2026/03/curved-surfaces.html",
+            "description": "त्रिमितीय भूमिती - वक्रपृष्ठ आकृत्या"
+        },
+        {
+            "id": "mathm_31",
+            "title": "एकचल समीकरणे",
+            "url": "https://www.e-gurumitra.com/2026/03/linear-equations.html",
+            "description": "एकचल समीकरणे"
+        },
+        {
+            "id": "mathm_32",
+            "title": "बैजिक राशी व बहुपदींचा भागाकार",
+            "url": "https://www.e-gurumitra.com/2026/03/algebraic-expressions.html",
+            "description": "बैजिक राशी व बहुपदींचा भागाकार"
+        },
+        {
+            "id": "mathm_33",
+            "title": "नित्यसमानता",
+            "url": "https://www.e-gurumitra.com/2026/03/identities.html",
+            "description": "नित्यसमानता"
+        },
+        {
+            "id": "mathm_34",
+            "title": "सांख्यिकी आणि वृत्तालेख",
+            "url": "https://www.e-gurumitra.com/2026/03/statistics-and-pie-charts.html",
+            "description": "सांख्यिकी आणि वृत्तालेख"
+        },
+        {
+            "id": "mathm_35",
+            "title": "क्रमांतरण आणि संयोजन",
+            "url": "https://www.e-gurumitra.com/2026/03/permutations-and-combinations.html",
+            "description": "क्रमांतरण आणि संयोजन"
+        },
+        {
+            "id": "mathm_36",
+            "title": "संभाव्यता",
+            "url": "https://www.e-gurumitra.com/2026/03/probability.html",
+            "description": "संभाव्यता"
         }
     ]
 }
