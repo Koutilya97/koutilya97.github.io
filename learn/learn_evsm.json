@@ -3,16 +3,16 @@
     "title": "परिसर अभ्यास",
     "posts": [
         {
-            "id": "evs_01",
-            "title": "परिवार एवं मित्र",
-            "url": "https://www.e-gurumitra.com/2025/12/family-and-friends.html",
-            "description": "परिवार एवं मित्र"
+            "id": "evsm_01",
+            "title": "मानवी उत्क्रांती: कुशल मानव ते प्रगत बुद्धीचा मानव",
+            "url": "https://www.e-gurumitra.com/2026/03/blog-post_22.html",
+            "description": "मानवी उत्क्रांती: कुशल मानव ते प्रगत बुद्धीचा मानव"
         },
         {
-            "id": "evs_02",
-            "title": "पौधे और जन्तु",
-            "url": "https://www.e-gurumitra.com/2025/12/plants-and-animals.html",
-            "description": "पौधे और जन्तु"
+            "id": "evsm_02",
+            "title": "अश्मयुग",
+            "url": "https://www.e-gurumitra.com/2026/03/stone-age.html",
+            "description": "अश्मयुग"
         }
     ]
 }
