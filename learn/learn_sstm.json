@@ -3,39 +3,155 @@
     "title": "सामाजिक शास्त्र",
     "posts": [
         {
+            "id": "sstm_01",
+            "title": "मानवी उत्क्रांती: कुशल मानव ते प्रगत बुद्धीचा मानव",
+            "url": "https://www.e-gurumitra.com/2026/03/blog-post_22.html",
+            "description": "मानवी उत्क्रांती: कुशल मानव ते प्रगत बुद्धीचा मानव"
+        },
+        {
+            "id": "sstm_02",
+            "title": "अश्मयुग",
+            "url": "https://www.e-gurumitra.com/2026/03/stone-age.html",
+            "description": "अश्मयुग"
+        },
+        {
+            "id": "sstm_03",
+            "title": "स्थिर जीवनाची सुरुवात",
+            "url": "https://www.e-gurumitra.com/2026/03/agriculture.html",
+            "description": "स्थिर जीवनाची सुरुवात"
+        },
+        {
+            "id": "sstm_04",
+            "title": "हडप्पा संस्कृती",
+            "url": "https://www.e-gurumitra.com/2026/03/indus-civilization.html",
+            "description": "हडप्पा संस्कृती"
+        },
+        {
+            "id": "sstm_05",
+            "title": "वैदिक काळ",
+            "url": "https://www.e-gurumitra.com/2026/03/blog-post_23.html",
+            "description": "वैदिक काळ"
+        },
+        {
+            "id": "sstm_06",
+            "title": "नवे धार्मिक विचार",
+            "url": "https://www.e-gurumitra.com/2026/03/jainism-and-buddhism.html",
+            "description": "नवे धार्मिक विचार"
+        },
+        {
+            "id": "sstm_07",
+            "title": "महाजनपदे",
+            "url": "https://www.e-gurumitra.com/2026/03/mahajanpadas.html",
+            "description": "महाजनपदे"
+        },
+        {
+            "id": "sstm_08",
+            "title": "मौर्य साम्राज्य",
+            "url": "https://www.e-gurumitra.com/2026/03/mauryan-empire.html",
+            "description": "मौर्य साम्राज्य"
+        },
+        {
+            "id": "sstm_09",
+            "title": "सातवाहन काळ",
+            "url": "https://www.e-gurumitra.com/2026/03/satvahana-era.html",
+            "description": "सातवाहन काळ"
+        },
+        {
+            "id": "sstm_10",
+            "title": "गुप्त साम्राज्य",
+            "url": "https://www.e-gurumitra.com/2026/03/gupta-empire.html",
+            "description": "गुप्त साम्राज्य"
+        },
+        {
+            "id": "sstm_11",
+            "title": "दक्षिण भारतातील राजसत्ता",
+            "url": "https://www.e-gurumitra.com/2026/03/south-indian-dynasties.html",
+            "description": "दक्षिण भारतातील राजसत्ता"
+        },
+        {
+            "id": "sstm_12",
+            "title": "प्राचीन भारत: सांस्कृतिक आणि शैक्षणिक वारसा",
+            "url": "https://www.e-gurumitra.com/2026/03/indian-culture.html",
+            "description": "प्राचीन भारत: सांस्कृतिक आणि शैक्षणिक वारसा"
+        },
+        {
+            "id": "sstm_13",
+            "title": "परकीय आक्रमणे आणि प्राचीन भारत",
+            "url": "https://www.e-gurumitra.com/2026/03/early-invasions.html",
+            "description": "परकीय आक्रमणे आणि प्राचीन भारत"
+        },
+        {
+            "id": "sstm_14",
+            "title": "दिल्ली सल्तनत",
+            "url": "https://www.e-gurumitra.com/2026/03/sultanet.html",
+            "description": "दिल्ली सल्तनत"
+        },
+        {
+            "id": "sstm_15",
+            "title": "मुघल साम्राज्य",
+            "url": "https://www.e-gurumitra.com/2026/03/mughal-empire.html",
+            "description": "मुघल साम्राज्य"
+        },
+        {
+            "id": "sstm_16",
+            "title": "विजयनगर आणि बहमनी साम्राज्य",
+            "url": "https://www.e-gurumitra.com/2026/03/vijaynagar-and-bahamani.html",
+            "description": "विजयनगर आणि बहमनी साम्राज्य"
+        },
+        {
+            "id": "sstm_17",
+            "title": "भक्ती चळवळ आणि सुफी संप्रदाय",
+            "url": "https://www.e-gurumitra.com/2026/03/bhakti-movement.html",
+            "description": "भक्ती चळवळ आणि सुफी संप्रदाय"
+        },
+        {
+            "id": "sstm_18",
+            "title": "मध्ययुगीन व्यापार, उद्योग आणि कला",
+            "url": "https://www.e-gurumitra.com/2026/03/trade.html",
+            "description": "मध्ययुगीन व्यापार, उद्योग आणि कला"
+        },
+        {
+            "id": "sstm_19",
+            "title": "मराठा पूर्वकालीन महाराष्ट्र",
+            "url": "https://www.e-gurumitra.com/2026/03/devagiri.html",
+            "description": "मराठा पूर्वकालीन महाराष्ट्र"
+        },
+        {
+            "id": "sstm_20",
+            "title": "मध्ययुगीन शिक्षण आणि समाजव्यवस्था",
+            "url": "https://www.e-gurumitra.com/2026/03/society.html",
+            "description": "मध्ययुगीन शिक्षण आणि समाजव्यवस्था"
+        },
+        {
+            "id": "sstm_21",
+            "title": "शिवपूर्वकालीन महाराष्ट्र",
+            "url": "https://www.e-gurumitra.com/2026/03/pre-maharashtra.html",
+            "description": "शिवपूर्वकालीन महाराष्ट्र"
+        },
+        {
+            "id": "sstm_22",
+            "title": "स्वराज्य स्थापनेची शपथ",
+            "url": "https://www.e-gurumitra.com/2026/03/foundaion-of-swarajya.html",
+            "description": "स्वराज्य स्थापनेची शपथ"
+        },
+        {
+            "id": "sstm_23",
+            "title": "अफजलखान वध",
+            "url": "https://www.e-gurumitra.com/2026/03/pratapgarh.html",
+            "description": "अफजलखान वध"
+        },
+        {
+            "id": "sstm_24",
+            "title": "पन्हाळगडचा वेढा व सुटका",
+            "url": "https://www.e-gurumitra.com/2026/03/escape-from-panhala.html",
+            "description": "पन्हाळगडचा वेढा व सुटका"
+        },
+        {
             "id": "post_1",
             "title": "इतिहासाची साधने, प्राचीन समाज आणि सिंधू संस्कृती",
             "url": "https://www.e-gurumitra.com/2025/11/indus-civilization.html",
             "thumbnail": "",
             "description": "हडप्पा (सिंधू) संस्कृतीची नगररचना व वैशिष्ट्ये"
-        },
-        {
-            "id": "post_2",
-            "title": "इतिहास: महाजनपदे, जैन-बौद्ध धर्म आणि मौर्य साम्राज्य",
-            "url": "https://www.e-gurumitra.com/2025/11/ancient-india.html",
-            "thumbnail": "",
-            "description": "१६ महाजनपदे, जैन व बौद्ध धर्म."
-        },
-        {
-            "id": "post_3",
-            "title": "गुप्त साम्राज्य आणि दक्षिणेतील राज्ये",
-            "url": "https://www.e-gurumitra.com/2025/11/ancient-india3.html",
-            "thumbnail": "",
-            "description": "गुप्त, वर्धन साम्राज्य आणि दक्षिण भारतातील राजघराण्यांची माहिती."
-        },
-        {
-            "id": "post_4",
-            "title": "मध्ययुगीन भारत १",
-            "url": "https://www.e-gurumitra.com/2025/11/medieval-india-one.html",
-            "thumbnail": "",
-            "description": "परकीय आक्रमणे, दिल्लीची सुलतानशाही"
-        },
-        {
-            "id": "post_5",
-            "title": "मध्ययुगीन भारत - मुघल साम्राज्य",
-            "url": "https://www.e-gurumitra.com/2025/11/mughal-empire.html",
-            "thumbnail": "",
-            "description": "मुघल सत्तेची स्थापना, बाबर ते औरंगजेब"
         },
         {
             "id": "post_6",
@@ -57,13 +173,6 @@
             "url": "https://www.e-gurumitra.com/2025/11/nationalist-movement.html",
             "thumbnail": "",
             "description": "काँग्रेसची स्थापना, जहाल व मवाळ कालखंड"
-        },
-        {
-            "id": "post_9",
-            "title": "इतिहास: महाराष्ट्र विशेष",
-            "url": "https://www.e-gurumitra.com/2025/11/maharashtra.html",
-            "thumbnail": "",
-            "description": "छत्रपती शिवाजी महाराजांचा इतिहास, मराठा साम्राज्य"
         },
         {
             "id": "post_10",
