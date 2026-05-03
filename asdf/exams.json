@@ -148,5 +148,13 @@
        "description": "L1_Marathi, L2-English, SOC",
        "category": "MAHA_TET",
        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p1_2024",
+       "title": "TET Paper 1 - 2024",
+       "filename": "enc_tet_p1_2024_ready.json",
+       "description": "Marathi, English",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
