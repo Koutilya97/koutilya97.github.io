@@ -153,7 +153,7 @@
        "id": "tet_pyq_p1_2024",
        "title": "TET Paper 1 - 2024",
        "filename": "enc_tet_p1_2024_ready.json",
-       "description": "Marathi, English",
+       "description": "Marathi, English 150 marks",
        "category": "MAHA_TET",
        "type": "PREVIOUS_YEAR_QUESTION"
     },
@@ -161,7 +161,31 @@
        "id": "tet_pyq_p1_hindi_2024",
        "title": "TET Hindi P1 - 2024",
        "filename": "enc_tet_hindi_p1_2024_ready.json",
-       "description": "Marathi, English",
+       "description": "Hindi only, 30 marks",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_soc_2024",
+       "title": "TET Paper 2 SOC - 2024",
+       "filename": "enc_tet_p2_2024_soc_ready.json",
+       "description": "Marathi, English, SOC 150 makrs",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_scim_2024",
+       "title": "TET P2 Sci-Math - 2024",
+       "filename": "enc_tet_scim_p2_2024_ready.json",
+       "description": "Science Math 60 marks",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_hindi_2024",
+       "title": "TET P2 Hindi - 2024",
+       "filename": "enc_tet_hindi_p2_2024_ready.json",
+       "description": "Hindi only, 30 marks",
        "category": "MAHA_TET",
        "type": "PREVIOUS_YEAR_QUESTION"
     }
