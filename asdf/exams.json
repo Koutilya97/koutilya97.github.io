@@ -212,5 +212,29 @@
        "description": "Science, Math 60 marks",
        "category": "MAHA_TET",
        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p1_2020",
+       "title": "TET Paper1 - 2020",
+       "filename": "enc_p1_2020_ready.json",
+       "description": "Marathi, English 150 marks",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_soc_2020",
+       "title": "TET Paper 2 SOC - 2020",
+       "filename": "enc_p2_2020_soc_ready.json",
+       "description": "Marathi, English, SOC 150 makrs",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_scim_2020",
+       "title": "TET P2 Sci-Math - 2020",
+       "filename": "enc_scim_p2_2020_ready.json",
+       "description": "Science, Math 60 marks",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
