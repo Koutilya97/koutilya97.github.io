@@ -86,5 +86,85 @@
         "description": "100 प्रश्न",
         "category": "CTET",
         "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_ca0b0dbb",
+        "title": "बालमानसशास्त्र चाचणी १",
+        "filename": "enc_ts_cdp_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_ff7c5338",
+        "title": "ENGLISH Test 01",
+        "filename": "enc_ts_english_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_a6a13efc",
+        "title": "परिसर अभ्यास चाचणी १",
+        "filename": "enc_ts_evs_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_cea3e863",
+        "title": "हिंदी प्रश्नावली १",
+        "filename": "enc_ts_hindi_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_79efed02",
+        "title": "हिंदी प्रश्नावली २",
+        "filename": "enc_ts_hindi_tet_02_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_fcc99701",
+        "title": "मराठी सराव चाचणी १",
+        "filename": "enc_ts_marathi_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_7148226a",
+        "title": "गणित-पेपर-१ चाचणी १",
+        "filename": "enc_ts_math1_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_4b0cdb29",
+        "title": "गणित-पेपर-२ चाचणी २",
+        "filename": "enc_ts_math2_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_678ee882",
+        "title": "विज्ञान-पेपर-२ चाचणी १",
+        "filename": "enc_ts_science_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
+    },
+    {
+        "id": "test_167985c7",
+        "title": "सामाजिक शास्त्र-पेपर-२ चाचणी-१",
+        "filename": "enc_ts_soc_tet_01_ready.json",
+        "description": "100 प्रश्न",
+        "category": "MAHA_TET",
+        "type": "TEST_SERIES"
     }
 ]
