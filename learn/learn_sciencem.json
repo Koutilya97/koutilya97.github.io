@@ -3,12 +3,222 @@
     "title": "विज्ञान",
     "posts": [
         {
+            "id": "scim_01",
+            "title": "सजीवांची लक्षणे आणि वर्गीकरण",
+            "url": "https://www.e-gurumitra.com/2026/05/living-world.html",
+            "thumbnail": "",
+            "description": "सजीवांची लक्षणे आणि वर्गीकरण"
+        },
+		{
+            "id": "scim_02",
+            "title": "वनस्पती: रचना आणि कार्य",
+            "url": "https://www.e-gurumitra.com/2026/05/plant-structure-function_0817586372.html",
+            "thumbnail": "",
+            "description": "वनस्पती: रचना आणि कार्य"
+        },
+		{
+            "id": "scim_03",
+            "title": "प्राणीसृष्टी आणि अनुकूलन",
+            "url": "https://www.e-gurumitra.com/2026/05/animal-world-adaptation.html",
+            "thumbnail": "",
+            "description": "प्राणीसृष्टी आणि अनुकूलन"
+        },
+		{
+            "id": "scim_04",
+            "title": "पेशी : रचना आणि अंगके",
+            "url": "https://www.e-gurumitra.com/2026/05/cell-biology.html",
+            "thumbnail": "",
+            "description": "पेशी : रचना आणि अंगके"
+        },
+		{
+            "id": "scim_05",
+            "title": "सूक्ष्मजीव सृष्टी",
+            "url": "https://www.e-gurumitra.com/2026/05/microbiology.html",
+            "thumbnail": "",
+            "description": "सूक्ष्मजीव सृष्टी"
+        },
+		{
+            "id": "scim_06",
+            "title": "मानवी पचन संस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/human-digestive-system.html",
+            "thumbnail": "",
+            "description": "मानवी पचन संस्था"
+        },
+		{
+            "id": "scim_07",
+            "title": "मानवी श्वसन आणि रक्ताभिसरण संस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/respiratory-circulatory-systems.html",
+            "thumbnail": "",
+            "description": "मानवी श्वसन आणि रक्ताभिसरण संस्था"
+        },
+		{
+            "id": "scim_08",
+            "title": "अस्थिसंस्था आणि त्वचा",
+            "url": "https://www.e-gurumitra.com/2026/05/skeletal-system-skin.html",
+            "thumbnail": "",
+            "description": "अस्थिसंस्था आणि त्वचा"
+        },
+		{
+            "id": "scim_09",
+            "title": "चेतासंस्था आणि ज्ञानेंद्रिये",
+            "url": "https://www.e-gurumitra.com/2026/05/nervous-system.html",
+            "thumbnail": "",
+            "description": "चेतासंस्था आणि ज्ञानेंद्रिये"
+        },
+		{
+            "id": "scim_10",
+            "title": "अन्न, पोषण आणि आरोग्य",
+            "url": "https://www.e-gurumitra.com/2026/05/food-nutrition.html",
+            "thumbnail": "",
+            "description": "अन्न, पोषण आणि आरोग्य"
+        },
+		{
+            "id": "scim_11",
+            "title": "मानवी उत्सर्जन आणि प्रजनन संस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/excretory-reproductive-systems.html",
+            "thumbnail": "",
+            "description": "मानवी उत्सर्जन आणि प्रजनन संस्था"
+        },
+		{
+            "id": "scim_12",
+            "title": "बल, गती आणि न्यूटनचे नियम",
+            "url": "https://www.e-gurumitra.com/2026/05/force-motion.html",
+            "thumbnail": "",
+            "description": "बल, गती आणि न्यूटनचे नियम"
+        },
+		{
+            "id": "scim_13",
+            "title": "कार्य, ऊर्जा आणि शक्ती",
+            "url": "https://www.e-gurumitra.com/2026/05/work-energy-power.html",
+            "thumbnail": "",
+            "description": "कार्य, ऊर्जा आणि शक्ती"
+        },
+		{
+            "id": "scim_14",
+            "title": "दाब, घनता आणि प्लवक बल",
+            "url": "https://www.e-gurumitra.com/2026/05/pressure-density-buoyancy.html",
+            "thumbnail": "",
+            "description": "दाब, घनता आणि प्लवक बल"
+        },
+		{
+            "id": "scim_15",
+            "title": "उष्णता आणि तापमान",
+            "url": "https://www.e-gurumitra.com/2026/05/heat-temperature.html",
+            "thumbnail": "",
+            "description": "उष्णता आणि तापमान"
+        },
+		{
+            "id": "scim_16",
+            "title": "प्रकाश: परावर्तन, अपवर्तन आणि भिंगे",
+            "url": "https://www.e-gurumitra.com/2026/05/light-optics.html",
+            "thumbnail": "",
+            "description": "प्रकाश: परावर्तन, अपवर्तन आणि भिंगे"
+        },
+		{
+            "id": "scim_17",
+            "title": "ध्वनी: वैशिष्ट्ये आणि प्रसारण",
+            "url": "https://www.e-gurumitra.com/2026/05/sound.html",
+            "thumbnail": "",
+            "description": "ध्वनी: वैशिष्ट्ये आणि प्रसारण"
+        },
+		{
+            "id": "scim_18",
+            "title": "विद्युतधारा आणि परिपथ",
+            "url": "https://www.e-gurumitra.com/2026/05/electricity-circuits.html",
+            "thumbnail": "",
+            "description": "विद्युतधारा आणि परिपथ"
+        },
+		{
+            "id": "scim_19",
+            "title": "चुंबकत्व आणि विद्युतचुंबकत्व",
+            "url": "https://www.e-gurumitra.com/2026/05/magnetism.html",
+            "thumbnail": "",
+            "description": "चुंबकत्व आणि विद्युतचुंबकत्व"
+        },
+		{
+            "id": "scim_20",
+            "title": "साधी यंत्रे",
+            "url": "https://www.e-gurumitra.com/2026/05/simple-machines.html",
+            "thumbnail": "",
+            "description": "साधी यंत्रे"
+        },
+		{
+            "id": "scim_21",
+            "title": "द्रव्य: अवस्था आणि गुणधर्म",
+            "url": "https://www.e-gurumitra.com/2026/05/matter.html",
+            "thumbnail": "",
+            "description": "द्रव्य: अवस्था आणि गुणधर्म"
+        },
+		{
+            "id": "scim_22",
+            "title": "मूलद्रव्ये, संयुगे आणि मिश्रणे",
+            "url": "https://www.e-gurumitra.com/2026/05/elements-compounds-mixtures.html",
+            "thumbnail": "",
+            "description": "मूलद्रव्ये, संयुगे आणि मिश्रणे"
+        },
+		{
+            "id": "scim_23",
+            "title": "आम्ल, आम्लारी आणि क्षार",
+            "url": "https://www.e-gurumitra.com/2026/05/acids-bases-salts.html",
+            "thumbnail": "",
+            "description": "आम्ल, आम्लारी आणि क्षार"
+        },
+		{
+            "id": "scim_24",
+            "title": "धातू आणि अधातू",
+            "url": "https://www.e-gurumitra.com/2026/05/metals-non-metals.html",
+            "thumbnail": "",
+            "description": "धातू आणि अधातू"
+        },
+		{
+            "id": "scim_25",
+            "title": "रासायनिक बदल आणि निसर्ग",
+            "url": "https://www.e-gurumitra.com/2026/05/chemical-changes.html",
+            "thumbnail": "",
+            "description": "रासायनिक बदल आणि निसर्ग"
+        },
+		{
+            "id": "scim_26",
+            "title": "हवा: गुणधर्म आणि प्रदूषण",
+            "url": "https://www.e-gurumitra.com/2026/05/air.html",
+            "thumbnail": "",
+            "description": "हवा: गुणधर्म आणि प्रदूषण"
+        },
+		{
+            "id": "scim_27",
+            "title": "पाणी: जलव्यवस्थापन आणि प्रदूषण",
+            "url": "https://www.e-gurumitra.com/2026/05/water.html",
+            "thumbnail": "",
+            "description": "पाणी: जलव्यवस्थापन आणि प्रदूषण"
+        },
+		{
+            "id": "scim_28",
+            "title": "मृदा आणि जमीन",
+            "url": "https://www.e-gurumitra.com/2026/05/soil-land.html",
+            "thumbnail": "",
+            "description": "मृदा आणि जमीन"
+        },
+		{
+            "id": "scim_29",
+            "title": "आपत्ती व्यवस्थापन",
+            "url": "https://www.e-gurumitra.com/2026/05/disaster-management.html",
+            "thumbnail": "",
+            "description": "आपत्ती व्यवस्थापन"
+        },
+		{
+            "id": "scim_30",
+            "title": "अवकाश संशोधन आणि इस्रो",
+            "url": "https://www.e-gurumitra.com/2026/05/space-and-isro.html",
+            "thumbnail": "",
+            "description": "अवकाश संशोधन आणि इस्रो"
+        },
+		{
             "id": "post_1",
             "title": "अन्नाचे मुख्य घटक",
             "url": "https://www.e-gurumitra.com/2025/11/food-components.html",
             "thumbnail": "",
             "description": "कर्बोदके, प्रथिने, स्निग्ध पदार्थ"
-        },
+        }
         {
             "id": "post_2",
             "title": "सूक्ष्म पोषक तत्वे आणि संतुलित आहार",
@@ -31,60 +241,11 @@
             "description": "कापूस, रेशीम यांसारखे नैसर्गिक धागे आणि नायलॉन, रेयॉन सारखे कृत्रिम धागे"
         },
         {
-            "id": "post_5",
-            "title": "पदार्थांचे गुणधर्म",
-            "url": "https://www.e-gurumitra.com/2025/11/properties-of-matter.html",
-            "thumbnail": "",
-            "description": "पदार्थांच्या अवस्था"
-        },
-        {
-            "id": "post_6",
-            "title": "आम्ल, आम्लारी, क्षार आणि उदासिनीकरण",
-            "url": "https://www.e-gurumitra.com/2025/11/acids-and-bases.html",
-            "thumbnail": "",
-            "description": "आम्ल (Acid) आणि आम्लारी (Base)"
-        },
-        {
-            "id": "post_7",
-            "title": "धातू-अधातू, भौतिक-रासायनिक बदल आणि ज्वलन",
-            "url": "https://www.e-gurumitra.com/2025/11/metals-and-nonmetals.html",
-            "thumbnail": "",
-            "description": "धातू व अधातूंचे गुणधर्म, गंजणे"
-        },
-        {
-            "id": "post_8",
-            "title": "पेशी आणि सूक्ष्मजीवांचे जग",
-            "url": "https://www.e-gurumitra.com/2025/11/cells.html",
-            "thumbnail": "",
-            "description": "सजीवांचे रचनात्मक एकक (पेशी), पेशींची रचना"
-        },
-        {
             "id": "post_9",
             "title": "वनस्पतींची रचना, प्रकाशसंश्लेषण आणि पुनरुत्पादन",
             "url": "https://www.e-gurumitra.com/2025/11/plants.html",
             "thumbnail": "",
             "description": "वनस्पतींचे अवयव, प्रकाशसंश्लेषण"
-        },
-        {
-            "id": "post_10",
-            "title": "मानवी पचनसंस्था आणि श्वसनसंस्था",
-            "url": "https://www.e-gurumitra.com/2025/11/human-body1.html",
-            "thumbnail": "",
-            "description": "पचन संस्थेचे कार्य आणि श्वसन संस्थेची रचना व कार्य"
-        },
-        {
-            "id": "post_11",
-            "title": "मानवी शरीर - रक्ताभिसरण आणि उत्सर्जन संस्था",
-            "url": "https://www.e-gurumitra.com/2025/11/human-body2.html",
-            "thumbnail": "",
-            "description": "हृदयाचे कार्य, रक्ताभिसरण प्रक्रिया"
-        },
-        {
-            "id": "post_12",
-            "title": "अस्थिसंस्था, सांधे आणि त्वचा",
-            "url": "https://www.e-gurumitra.com/2025/11/skeletal-system.html",
-            "thumbnail": "",
-            "description": "मानवी सांगाडा, हाडांचे प्रकार"
         },
         {
             "id": "post_13",
