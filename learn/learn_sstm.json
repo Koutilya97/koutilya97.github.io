@@ -1,6 +1,6 @@
 {
     "subjectId": "sstm",
-    "title": "सामाजिक शास्त्र",
+    "title": "परिसर अभ्यास",
     "posts": [
         {
             "id": "sstm_01",
@@ -423,123 +423,64 @@
             "description": "हवामान बदल"
         },
         {
-            "id": "post_1",
-            "title": "इतिहासाची साधने, प्राचीन समाज आणि सिंधू संस्कृती",
-            "url": "https://www.e-gurumitra.com/2025/11/indus-civilization.html",
-            "thumbnail": "",
-            "description": "हडप्पा (सिंधू) संस्कृतीची नगररचना व वैशिष्ट्ये"
+            "id": "evsm_71",
+            "title": "भारतीय संविधान",
+            "url": "https://www.e-gurumitra.com/2026/05/constitution-preamble.html",
+            "description": "भारतीय संविधान"
         },
         {
-            "id": "post_6",
-            "title": "ब्रिटिश सत्तेची स्थापना आणि १८५७ चा उठाव",
-            "url": "https://www.e-gurumitra.com/2025/11/british-rule.html",
-            "thumbnail": "",
-            "description": "ईस्ट इंडिया कंपनी, १८५७ च्या राष्ट्रीय उठावाची कारणे व परिणाम."
+            "id": "evsm_72",
+            "title": "मूलभूत हक्क, कर्तव्ये आणि मार्गदर्शक तत्वे",
+            "url": "https://www.e-gurumitra.com/2026/05/rights-and-duties.html",
+            "description": "मूलभूत हक्क, कर्तव्ये आणि मार्गदर्शक तत्वे"
         },
         {
-            "id": "post_7",
-            "title": "राष्ट्रीय सामाजिक सुधारणा",
-            "url": "https://www.e-gurumitra.com/2025/11/social-reforms.html",
-            "thumbnail": "",
-            "description": "समाजसुधारक, सती प्रथा बंदी"
+            "id": "evsm_73",
+            "title": "केंद्रीय शासन: संसद",
+            "url": "https://www.e-gurumitra.com/2026/05/parliment.html",
+            "description": "केंद्रीय शासन: संसद"
         },
         {
-            "id": "post_8",
-            "title": "भारतीय राष्ट्रीय चळवळ",
-            "url": "https://www.e-gurumitra.com/2025/11/nationalist-movement.html",
-            "thumbnail": "",
-            "description": "काँग्रेसची स्थापना, जहाल व मवाळ कालखंड"
+            "id": "evsm_74",
+            "title": "केंद्रीय कार्यकारी मंडळ",
+            "url": "https://www.e-gurumitra.com/2026/05/executive-body.html",
+            "description": "केंद्रीय कार्यकारी मंडळ"
         },
         {
-            "id": "post_10",
-            "title": "भूगोल (भाग १) - सूर्यमाला आणि पृथ्वीगोल",
-            "url": "https://www.e-gurumitra.com/2025/11/solar-system.html",
-            "thumbnail": "",
-            "description": "सूर्यमालेतील ग्रह, पृथ्वीची गती"
+            "id": "evsm_75",
+            "title": "राज्य शासन",
+            "url": "https://www.e-gurumitra.com/2026/05/state-govt.html",
+            "description": "राज्य शासन"
         },
         {
-            "id": "post_11",
-            "title": "भूगोल : पर्यावरण (नैसर्गिक आणि मानवी) आणि शिलावरण",
-            "url": "https://www.e-gurumitra.com/2025/11/environment.html",
-            "thumbnail": "",
-            "description": "पर्यावरणाचे घटक, पृथ्वीचे अंतरंग"
+            "id": "evsm_76",
+            "title": "न्यायमंडळ",
+            "url": "https://www.e-gurumitra.com/2026/05/judiciary.html",
+            "description": "न्यायमंडळ"
         },
         {
-            "id": "post_12",
-            "title": "भूगोल: वातावरण आणि जलावरण",
-            "url": "https://www.e-gurumitra.com/2025/11/atmosphere.html",
-            "thumbnail": "",
-            "description": "वातावरणाचे थर, हवा व हवामान"
+            "id": "evsm_77",
+            "title": "पंचायत राज व्यवस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/panchayat-raj.html",
+            "description": "पंचायत राज व्यवस्था"
         },
         {
-            "id": "post_13",
-            "title": "मानवी पर्यावरण आणि कृषी",
-            "url": "https://www.e-gurumitra.com/2025/11/agriculture.html",
-            "thumbnail": "",
-            "description": "मानवी वस्त्या, वाहतूक व दळणवळण"
+            "id": "evsm_78",
+            "title": "नगरपरिषद आणि महानगरपालिका",
+            "url": "https://www.e-gurumitra.com/2026/05/urban-local-bodies.html",
+            "description": "नगरपरिषद आणि महानगरपालिका"
         },
         {
-            "id": "post_14",
-            "title": "संसाधने आणि संवर्धन",
-            "url": "https://www.e-gurumitra.com/2025/11/resources.html",
-            "thumbnail": "",
-            "description": "नैसर्गिक संसाधने (मृदा, पाणी, खनिजे)"
+            "id": "evsm_79",
+            "title": "जिल्हा प्रशासन आणि पोलीस प्रशासन",
+            "url": "https://www.e-gurumitra.com/2026/05/district-administraion.html",
+            "description": "जिल्हा प्रशासन आणि पोलीस प्रशासन"
         },
         {
-            "id": "post_15",
-            "title": "महाराष्ट्र - प्राकृतिक रचना, नद्या, हवामान आणि पिके",
-            "url": "https://www.e-gurumitra.com/2025/11/maharashtra-geography.html",
-            "thumbnail": "",
-            "description": "महाराष्ट्राचे प्रशासकीय विभाग"
-        },
-        {
-            "id": "post_16",
-            "title": "नागरिकशास्त्र: विविधता, लोकशाही आणि सरकारची गरज",
-            "url": "https://www.e-gurumitra.com/2025/11/civics1.html",
-            "thumbnail": "",
-            "description": "विविधतेतील एकता, लोकशाहीची मूल्ये"
-        },
-        {
-            "id": "post_17",
-            "title": "नागरिकशास्त्र: भारतीय संविधान",
-            "url": "https://www.e-gurumitra.com/2025/11/constitution.html",
-            "thumbnail": "",
-            "description": "संविधानाची निर्मिती, उद्देशिका, मूलभूत हक्क आणि कर्तव्ये"
-        },
-        {
-            "id": "post_18",
-            "title": "नागरिकशास्त्र: केंद्र सरकार",
-            "url": "https://www.e-gurumitra.com/2025/11/central-government.html",
-            "thumbnail": "",
-            "description": "संसदीय शासनपद्धती, लोकसभा, राज्यसभा."
-        },
-        {
-            "id": "post_19",
-            "title": "नागरिकशास्त्र: राज्य सरकार",
-            "url": "https://www.e-gurumitra.com/2025/11/state-government.html",
-            "thumbnail": "",
-            "description": "कार्यकारी मंडळ आणि कायदेमंडळ"
-        },
-        {
-            "id": "post_20",
-            "title": "नागरिकशास्त्र: भारताची स्वतंत्र न्यायपालिका",
-            "url": "https://www.e-gurumitra.com/2025/11/judiciary.html",
-            "thumbnail": "",
-            "description": "न्यायमंडळ आणि नागरिकांच्या हक्कांची जपणूक"
-        },
-        {
-            "id": "post_21",
-            "title": "नागरिकशास्त्र: सामाजिक न्याय",
-            "url": "https://www.e-gurumitra.com/2025/11/social-justice.html",
-            "thumbnail": "",
-            "description": "सामाजिक न्याय प्रस्थापित करणे"
-        },
-        {
-            "id": "post_22",
-            "title": "सामाजिक शास्त्राचे अध्यापनशास्त्र - भाग 1",
-            "url": "https://www.e-gurumitra.com/2025/11/soc-pedagogy-one.html",
-            "thumbnail": "",
-            "description": "संकल्पना, उद्दिष्ट्ये आणि वर्ग प्रक्रिया"
+            "id": "evsm_80",
+            "title": "निवडणूक प्रक्रिया आणि लोकशाही",
+            "url": "https://www.e-gurumitra.com/2026/05/election-and-democracy.html",
+            "description": "निवडणूक प्रक्रिया आणि लोकशाही"
         }
     ]
 }

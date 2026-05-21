@@ -421,6 +421,276 @@
             "title": "हवामान बदल",
             "url": "https://www.e-gurumitra.com/2026/05/global-warming.html",
             "description": "हवामान बदल"
+        },
+        {
+            "id": "evsm_71",
+            "title": "भारतीय संविधान",
+            "url": "https://www.e-gurumitra.com/2026/05/constitution-preamble.html",
+            "description": "भारतीय संविधान"
+        },
+        {
+            "id": "evsm_72",
+            "title": "मूलभूत हक्क, कर्तव्ये आणि मार्गदर्शक तत्वे",
+            "url": "https://www.e-gurumitra.com/2026/05/rights-and-duties.html",
+            "description": "मूलभूत हक्क, कर्तव्ये आणि मार्गदर्शक तत्वे"
+        },
+        {
+            "id": "evsm_73",
+            "title": "केंद्रीय शासन: संसद",
+            "url": "https://www.e-gurumitra.com/2026/05/parliment.html",
+            "description": "केंद्रीय शासन: संसद"
+        },
+        {
+            "id": "evsm_74",
+            "title": "केंद्रीय कार्यकारी मंडळ",
+            "url": "https://www.e-gurumitra.com/2026/05/executive-body.html",
+            "description": "केंद्रीय कार्यकारी मंडळ"
+        },
+        {
+            "id": "evsm_75",
+            "title": "राज्य शासन",
+            "url": "https://www.e-gurumitra.com/2026/05/state-govt.html",
+            "description": "राज्य शासन"
+        },
+        {
+            "id": "evsm_76",
+            "title": "न्यायमंडळ",
+            "url": "https://www.e-gurumitra.com/2026/05/judiciary.html",
+            "description": "न्यायमंडळ"
+        },
+        {
+            "id": "evsm_77",
+            "title": "पंचायत राज व्यवस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/panchayat-raj.html",
+            "description": "पंचायत राज व्यवस्था"
+        },
+        {
+            "id": "evsm_78",
+            "title": "नगरपरिषद आणि महानगरपालिका",
+            "url": "https://www.e-gurumitra.com/2026/05/urban-local-bodies.html",
+            "description": "नगरपरिषद आणि महानगरपालिका"
+        },
+        {
+            "id": "evsm_79",
+            "title": "जिल्हा प्रशासन आणि पोलीस प्रशासन",
+            "url": "https://www.e-gurumitra.com/2026/05/district-administraion.html",
+            "description": "जिल्हा प्रशासन आणि पोलीस प्रशासन"
+        },
+        {
+            "id": "evsm_80",
+            "title": "निवडणूक प्रक्रिया आणि लोकशाही",
+            "url": "https://www.e-gurumitra.com/2026/05/election-and-democracy.html",
+            "description": "निवडणूक प्रक्रिया आणि लोकशाही"
+        },
+		{
+            "id": "scime_01",
+            "title": "सजीवांची लक्षणे आणि वर्गीकरण",
+            "url": "https://www.e-gurumitra.com/2026/05/living-world.html",
+            "thumbnail": "",
+            "description": "सजीवांची लक्षणे आणि वर्गीकरण"
+        },
+		{
+            "id": "scime_02",
+            "title": "वनस्पती: रचना आणि कार्य",
+            "url": "https://www.e-gurumitra.com/2026/05/plant-structure-function_0817586372.html",
+            "thumbnail": "",
+            "description": "वनस्पती: रचना आणि कार्य"
+        },
+		{
+            "id": "scime_03",
+            "title": "प्राणीसृष्टी आणि अनुकूलन",
+            "url": "https://www.e-gurumitra.com/2026/05/animal-world-adaptation.html",
+            "thumbnail": "",
+            "description": "प्राणीसृष्टी आणि अनुकूलन"
+        },
+		{
+            "id": "scime_04",
+            "title": "पेशी : रचना आणि अंगके",
+            "url": "https://www.e-gurumitra.com/2026/05/cell-biology.html",
+            "thumbnail": "",
+            "description": "पेशी : रचना आणि अंगके"
+        },
+		{
+            "id": "scime_05",
+            "title": "सूक्ष्मजीव सृष्टी",
+            "url": "https://www.e-gurumitra.com/2026/05/microbiology.html",
+            "thumbnail": "",
+            "description": "सूक्ष्मजीव सृष्टी"
+        },
+		{
+            "id": "scime_06",
+            "title": "मानवी पचन संस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/human-digestive-system.html",
+            "thumbnail": "",
+            "description": "मानवी पचन संस्था"
+        },
+		{
+            "id": "scime_07",
+            "title": "मानवी श्वसन आणि रक्ताभिसरण संस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/respiratory-circulatory-systems.html",
+            "thumbnail": "",
+            "description": "मानवी श्वसन आणि रक्ताभिसरण संस्था"
+        },
+		{
+            "id": "scime_08",
+            "title": "अस्थिसंस्था आणि त्वचा",
+            "url": "https://www.e-gurumitra.com/2026/05/skeletal-system-skin.html",
+            "thumbnail": "",
+            "description": "अस्थिसंस्था आणि त्वचा"
+        },
+		{
+            "id": "scime_09",
+            "title": "चेतासंस्था आणि ज्ञानेंद्रिये",
+            "url": "https://www.e-gurumitra.com/2026/05/nervous-system.html",
+            "thumbnail": "",
+            "description": "चेतासंस्था आणि ज्ञानेंद्रिये"
+        },
+		{
+            "id": "scime_10",
+            "title": "अन्न, पोषण आणि आरोग्य",
+            "url": "https://www.e-gurumitra.com/2026/05/food-nutrition.html",
+            "thumbnail": "",
+            "description": "अन्न, पोषण आणि आरोग्य"
+        },
+		{
+            "id": "scime_11",
+            "title": "मानवी उत्सर्जन आणि प्रजनन संस्था",
+            "url": "https://www.e-gurumitra.com/2026/05/excretory-reproductive-systems.html",
+            "thumbnail": "",
+            "description": "मानवी उत्सर्जन आणि प्रजनन संस्था"
+        },
+		{
+            "id": "scime_12",
+            "title": "बल, गती आणि न्यूटनचे नियम",
+            "url": "https://www.e-gurumitra.com/2026/05/force-motion.html",
+            "thumbnail": "",
+            "description": "बल, गती आणि न्यूटनचे नियम"
+        },
+		{
+            "id": "scime_13",
+            "title": "कार्य, ऊर्जा आणि शक्ती",
+            "url": "https://www.e-gurumitra.com/2026/05/work-energy-power.html",
+            "thumbnail": "",
+            "description": "कार्य, ऊर्जा आणि शक्ती"
+        },
+		{
+            "id": "scime_14",
+            "title": "दाब, घनता आणि प्लवक बल",
+            "url": "https://www.e-gurumitra.com/2026/05/pressure-density-buoyancy.html",
+            "thumbnail": "",
+            "description": "दाब, घनता आणि प्लवक बल"
+        },
+		{
+            "id": "scime_15",
+            "title": "उष्णता आणि तापमान",
+            "url": "https://www.e-gurumitra.com/2026/05/heat-temperature.html",
+            "thumbnail": "",
+            "description": "उष्णता आणि तापमान"
+        },
+		{
+            "id": "scime_16",
+            "title": "प्रकाश: परावर्तन, अपवर्तन आणि भिंगे",
+            "url": "https://www.e-gurumitra.com/2026/05/light-optics.html",
+            "thumbnail": "",
+            "description": "प्रकाश: परावर्तन, अपवर्तन आणि भिंगे"
+        },
+		{
+            "id": "scime_17",
+            "title": "ध्वनी: वैशिष्ट्ये आणि प्रसारण",
+            "url": "https://www.e-gurumitra.com/2026/05/sound.html",
+            "thumbnail": "",
+            "description": "ध्वनी: वैशिष्ट्ये आणि प्रसारण"
+        },
+		{
+            "id": "scime_18",
+            "title": "विद्युतधारा आणि परिपथ",
+            "url": "https://www.e-gurumitra.com/2026/05/electricity-circuits.html",
+            "thumbnail": "",
+            "description": "विद्युतधारा आणि परिपथ"
+        },
+		{
+            "id": "scime_19",
+            "title": "चुंबकत्व आणि विद्युतचुंबकत्व",
+            "url": "https://www.e-gurumitra.com/2026/05/magnetism.html",
+            "thumbnail": "",
+            "description": "चुंबकत्व आणि विद्युतचुंबकत्व"
+        },
+		{
+            "id": "scime_20",
+            "title": "साधी यंत्रे",
+            "url": "https://www.e-gurumitra.com/2026/05/simple-machines.html",
+            "thumbnail": "",
+            "description": "साधी यंत्रे"
+        },
+		{
+            "id": "scime_21",
+            "title": "द्रव्य: अवस्था आणि गुणधर्म",
+            "url": "https://www.e-gurumitra.com/2026/05/matter.html",
+            "thumbnail": "",
+            "description": "द्रव्य: अवस्था आणि गुणधर्म"
+        },
+		{
+            "id": "scime_22",
+            "title": "मूलद्रव्ये, संयुगे आणि मिश्रणे",
+            "url": "https://www.e-gurumitra.com/2026/05/elements-compounds-mixtures.html",
+            "thumbnail": "",
+            "description": "मूलद्रव्ये, संयुगे आणि मिश्रणे"
+        },
+		{
+            "id": "scime_23",
+            "title": "आम्ल, आम्लारी आणि क्षार",
+            "url": "https://www.e-gurumitra.com/2026/05/acids-bases-salts.html",
+            "thumbnail": "",
+            "description": "आम्ल, आम्लारी आणि क्षार"
+        },
+		{
+            "id": "scime_24",
+            "title": "धातू आणि अधातू",
+            "url": "https://www.e-gurumitra.com/2026/05/metals-non-metals.html",
+            "thumbnail": "",
+            "description": "धातू आणि अधातू"
+        },
+		{
+            "id": "scime_25",
+            "title": "रासायनिक बदल आणि निसर्ग",
+            "url": "https://www.e-gurumitra.com/2026/05/chemical-changes.html",
+            "thumbnail": "",
+            "description": "रासायनिक बदल आणि निसर्ग"
+        },
+		{
+            "id": "scime_26",
+            "title": "हवा: गुणधर्म आणि प्रदूषण",
+            "url": "https://www.e-gurumitra.com/2026/05/air.html",
+            "thumbnail": "",
+            "description": "हवा: गुणधर्म आणि प्रदूषण"
+        },
+		{
+            "id": "scime_27",
+            "title": "पाणी: जलव्यवस्थापन आणि प्रदूषण",
+            "url": "https://www.e-gurumitra.com/2026/05/water.html",
+            "thumbnail": "",
+            "description": "पाणी: जलव्यवस्थापन आणि प्रदूषण"
+        },
+		{
+            "id": "scime_28",
+            "title": "मृदा आणि जमीन",
+            "url": "https://www.e-gurumitra.com/2026/05/soil-land.html",
+            "thumbnail": "",
+            "description": "मृदा आणि जमीन"
+        },
+		{
+            "id": "scime_29",
+            "title": "आपत्ती व्यवस्थापन",
+            "url": "https://www.e-gurumitra.com/2026/05/disaster-management.html",
+            "thumbnail": "",
+            "description": "आपत्ती व्यवस्थापन"
+        },
+		{
+            "id": "scime_30",
+            "title": "अवकाश संशोधन आणि इस्रो",
+            "url": "https://www.e-gurumitra.com/2026/05/space-and-isro.html",
+            "thumbnail": "",
+            "description": "अवकाश संशोधन आणि इस्रो"
         }
     ]
 }
