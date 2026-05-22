@@ -4,97 +4,133 @@
   "posts": [
     {
       "id": "post_1",
-      "title": "१. वर्णविचार",
+      "title": "वर्णविचार",
       "url": "https://www.e-gurumitra.com/2025/09/varnamala.html",
       "description": "मराठी भाषेतील वर्णमाला, स्वर, व्यंजने आणि त्यांचे प्रकार यांची मूलभूत माहिती."
     },
     {
       "id": "post_2",
-      "title": "२. शब्दांच्या जाती १ (विकारी शब्द)",
+      "title": "शब्दांच्या जाती १ (विकारी शब्द)",
       "url": "https://www.e-gurumitra.com/2025/09/parts-of-speech-1.html",
       "description": "शब्दांच्या विकारी जाती म्हणजेच नाम, सर्वनाम, विशेषण आणि क्रियापद यांची उदाहरणांसह माहिती."
     },
     {
       "id": "post_3",
-      "title": "३. शब्दांच्या जाती २ (अविकारी शब्द)",
+      "title": "शब्दांच्या जाती २ (अविकारी शब्द)",
       "url": "https://www.e-gurumitra.com/2025/09/indeclinable-words.html",
       "description": "शब्दांच्या अविकारी जाती म्हणजेच क्रियाविशेषण, शब्दयोगी, उभयान्वयी आणि केवलप्रयोगी अव्यय."
     },
     {
       "id": "post_4",
-      "title": "४. लिंग, वचन आणि विभक्ती",
+      "title": "लिंग व वचन विचार",
       "url": "https://www.e-gurumitra.com/2025/09/gendernumbercase.html",
-      "description": "नामांना लागणारे लिंग, वचन आणि विभक्तीचे प्रत्यय यांची माहिती."
+      "description": "लिंग व वचन विचार"
+    },
+	{
+      "id": "post_4a",
+      "title": "विभक्ती, सामान्यरूप व कारकार्थ",
+      "url": "https://www.e-gurumitra.com/2026/05/case-terminations.html",
+      "description": "विभक्ती, सामान्यरूप व कारकार्थ"
+    },
+	{
+      "id": "post_4b",
+      "title": "वाक्य पृथक्करण व वाक्यांचे भाग",
+      "url": "https://www.e-gurumitra.com/2026/05/sentence-analysis.html",
+      "description": "वाक्य पृथक्करण व वाक्यांचे भाग"
     },
     {
       "id": "post_5",
-      "title": "५. काळ",
+      "title": "काळ",
       "url": "https://www.e-gurumitra.com/2025/10/tense.html",
       "description": "वर्तमानकाळ, भूतकाळ आणि भविष्यकाळ आणि त्यांच्या उपप्रकारांची सविस्तर माहिती."
     },
     {
       "id": "post_6",
-      "title": "६. प्रयोग",
+      "title": "प्रयोग",
       "url": "https://www.e-gurumitra.com/2025/10/voice.html",
       "description": "कर्तरी, कर्मणी आणि भावे प्रयोगाचे प्रकार उदाहरणांसह स्पष्ट केले आहेत."
     },
     {
+      "id": "post_7a",
+      "title": "संधी",
+      "url": "https://www.e-gurumitra.com/2026/05/word-conjunctions.html",
+      "description": "संधी व संधीचे प्रकार"
+    },
+    {
       "id": "post_7",
-      "title": "७. समास",
+      "title": "समास",
       "url": "https://www.e-gurumitra.com/2025/10/samas.html",
       "description": "अव्ययीभाव, तत्पुरुष, द्वंद्व आणि बहुव्रीहि या मुख्य समासांची माहिती."
     },
     {
       "id": "post_8",
-      "title": "८. वाक्यांचे प्रकार",
+      "title": "वाक्यांचे प्रकार",
       "url": "https://www.e-gurumitra.com/2025/10/sentences.html",
       "description": "विधानार्थी, प्रश्नार्थी, उद्गारार्थी तसेच केवल, मिश्र आणि संयुक्त वाक्यांची माहिती."
     },
     {
       "id": "post_9",
-      "title": "९. अलंकार",
+      "title": "काव्यशास्त्र भाग १ - अलंकार व रस",
       "url": "https://www.e-gurumitra.com/2025/10/alankar.html",
-      "description": "शब्दालंकार आणि अर्थालंकार या मुख्य प्रकारांची उदाहरणांसह माहिती."
+      "description": "काव्यशास्त्र भाग १ - अलंकार व रस"
+    },
+	{
+      "id": "post_9a",
+      "title": "काव्यशास्त्र भाग 2 - वृत्ते व छंद",
+      "url": "https://www.e-gurumitra.com/2026/05/2-vrutte.html",
+      "description": "काव्यशास्त्र भाग 2 - वृत्ते व छंद"
     },
     {
       "id": "post_10",
-      "title": "१०. शुद्धलेखन आणि विरामचिन्हे",
+      "title": "शुद्धलेखन आणि विरामचिन्हे",
       "url": "https://www.e-gurumitra.com/2025/10/punctuations.html",
       "description": "शुद्ध आणि अर्थपूर्ण लेखनासाठी आवश्यक नियम आणि विरामचिन्हांचा वापर."
     },
+	{
+      "id": "post_10a",
+      "title": "मराठी साहित्य: टोपणनावे, साहित्यिक पुरस्कार",
+      "url": "https://www.e-gurumitra.com/2026/05/writers.html",
+      "description": "मराठी साहित्य: टोपणनावे, साहित्यिक पुरस्कार"
+    },
+	{
+      "id": "post_10b",
+      "title": "मराठी साहित्य: प्रसिद्ध पुस्तके",
+      "url": "https://www.e-gurumitra.com/2026/05/famous-books.html",
+      "description": "मराठी साहित्य: प्रसिद्ध पुस्तके, ग्रंथ व लेखक"
+    },
     {
       "id": "post_11",
-      "title": "११. शब्दसंपत्ती भाग १",
+      "title": "शब्दसंपत्ती भाग १",
       "url": "https://www.e-gurumitra.com/2025/10/vocabone.html",
       "description": "समानार्थी शब्द, विरुद्धार्थी शब्द आणि शब्दसमूहाबद्दल एक शब्द."
     },
     {
       "id": "post_12",
-      "title": "१२. शब्दसंपत्ती भाग २",
+      "title": "शब्दसंपत्ती भाग २",
       "url": "https://www.e-gurumitra.com/2025/10/vocab-two.html",
       "description": "अलंकारिक शब्द, ध्वनीदर्शक शब्द आणि घरदर्शक शब्द यांची माहिती."
     },
     {
       "id": "post_13",
-      "title": "१३. भाषा संपादन आणि अध्ययन",
+      "title": "भाषा संपादन आणि अध्ययन",
       "url": "https://www.e-gurumitra.com/2025/10/acquire-vs-learn.html",
       "description": "भाषा आत्मसात करणे आणि ती शिकणे यातील फरक आणि प्रक्रियेची माहिती."
     },
     {
       "id": "post_14",
-      "title": "१४. भाषा अध्यापन आणि कौशल्ये",
+      "title": "भाषा अध्यापन आणि कौशल्ये",
       "url": "https://e-gurumitra.com/2025/10/lsrw.html",
       "description": "श्रवण, भाषण, वाचन आणि लेखन (LSRW) या कौशल्यांच्या विकासासाठी मार्गदर्शन."
     },
     {
       "id": "post_15",
-      "title": "१५. वर्गातील आव्हाने आणि शैक्षणिक साहित्याचा वापर",
+      "title": "वर्गातील आव्हाने आणि शैक्षणिक साहित्याचा वापर",
       "url": "https://www.e-gurumitra.com/2025/10/tlm.html",
       "description": "वर्गातील अडचणी आणि शैक्षणिक साहित्याचा (TLM) प्रभावी वापर."
     },
     {
       "id": "post_16",
-      "title": "१६. भाषिक मूल्यमापन आणि उपचारात्मक अध्यापन",
+      "title": "भाषिक मूल्यमापन आणि उपचारात्मक अध्यापन",
       "url": "https://www.e-gurumitra.com/2025/10/language-evaluation.html",
       "description": "भाषिक प्रगतीचे मूल्यांकन आणि उपचारात्मक अध्यापनाचे नियोजन."
     }
