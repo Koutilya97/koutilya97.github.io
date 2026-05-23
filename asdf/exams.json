@@ -236,5 +236,21 @@
        "description": "Science, Math 60 marks",
        "category": "MAHA_TET",
        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p1_2018",
+       "title": "TET Paper 1 - 2018",
+       "filename": "enc_tet_p1_2018_ready.json",
+       "description": "Marathi, English 150 makrs",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+       "id": "tet_pyq_p2_scim_2018",
+       "title": "TET P2 Sci-Math - 2018",
+       "filename": "enc_tet_p2_2018_ready.json",
+       "description": "Science, Math 150 marks",
+       "category": "MAHA_TET",
+       "type": "PREVIOUS_YEAR_QUESTION"
     }
 ]
