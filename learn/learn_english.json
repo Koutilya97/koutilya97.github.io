@@ -2,104 +2,188 @@
     "subjectId": "english",
     "title": "TET English (इंग्रजी विषय)",
     "posts": [
-        {
-            "id": "post_1",
-            "title": "गद्य उतारा आकलन (Reading Comprehension)",
-            "url": "https://www.e-gurumitra.com/2025/10/reading-comprehension.html",
-            "description": "Practice questions and reading skills."
+		{
+            "id": "engm_01",
+            "title": "नाम आणि त्याचे प्रकार (Noun: types)",
+            "url": "https://www.e-gurumitra.com/2026/05/noun-types.html",
+            "description": "Nouns: Core Concepts & Classifications"
         },
-        {
-            "id": "post_2",
-            "title": "कविता आकलन (Poetry Comprehension)",
-            "url": "https://www.e-gurumitra.com/2025/10/poetry-comprehension.html",
-            "description": "Learn figures of speech and poetry."
+		{
+            "id": "engm_02",
+            "title": "नामांचे लिंग व वचन (Nouns: Advanced)",
+            "url": "https://www.e-gurumitra.com/2026/05/nouns-advanced.html",
+            "description": "Nouns: Advanced Attributes & Exceptions"
         },
-        {
-            "id": "post_3",
-            "title": "शब्दांच्या जाती 1 (Noun, Pronoun, Adjective)",
-            "url": "https://www.e-gurumitra.com/2025/10/parts-of-speech-1-noun-pronoun-adjective.html",
-            "description": "Nouns, pronouns, and adjectives explained."
+		{
+            "id": "engm_03",
+            "title": "सर्वनाम आणि त्यांचे उपप्रकार(pronouns)",
+            "url": "https://www.e-gurumitra.com/2026/05/pronouns.html",
+            "description": "Pronouns: Classification & Structural Rules"
         },
-        {
-            "id": "post_4",
-            "title": "शब्दांच्या जाती 2 (Verb and Adverb)",
-            "url": "https://www.e-gurumitra.com/2025/10/parts-of-speech-2-verb-and-adverb.html",
-            "description": "Verbs and adverbs with examples."
+		{
+            "id": "engm_04",
+            "title": "विशेषण (Adjectives)",
+            "url": "https://www.e-gurumitra.com/2026/05/adjectives.html",
+            "description": " Adjectives: Classifications & Order"
         },
-        {
-            "id": "post_5",
-            "title": "शब्दांच्या जाती 3 (Preposition, Conjunction & Interjection)",
-            "url": "https://www.e-gurumitra.com/2025/10/parts-of-speech-3.html",
-            "description": "Prepositions, conjunctions, and interjections usage."
+		{
+            "id": "engm_05",
+            "title": "क्रियापद: सकर्मक व अकर्मक (Verbs: Transitivity)",
+            "url": "https://www.e-gurumitra.com/2026/05/verbs-transitivity.html",
+            "description": "Verbs: Transitivity & Conjugation"
         },
-        {
-            "id": "post_6",
-            "title": "वाक्य (Sentences)",
-            "url": "https://www.e-gurumitra.com/2025/10/sentences_21.html",
-            "description": "Types and transformation of sentences."
+		{
+            "id": "engm_06",
+            "title": "साहाय्यक क्रियापदे (Verbs: Auxiliaries)",
+            "url": "https://www.e-gurumitra.com/2026/05/verbs-auxiliaries.html",
+            "description": "Verbs: Auxiliaries & Modals"
         },
-        {
-            "id": "post_7",
+		{
+            "id": "engm_07",
+            "title": "अमर्यादित क्रियापदे: कृदन्ते (Verbals)",
+            "url": "https://www.e-gurumitra.com/2026/05/verbals.html",
+            "description": "Non-Finite Verbs: Verbals"
+        },
+		{
+            "id": "engm_08",
+            "title": "क्रियाविशेषण अव्यय (Adverbs)",
+            "url": "https://www.e-gurumitra.com/2026/05/adverbs.html",
+            "description": "Adverbs: Kinds & Position"
+        },
+		{
+            "id": "engm_09",
+            "title": "शब्दयोगी अव्यय : संकल्पना (Prepositions)",
+            "url": "https://www.e-gurumitra.com/2026/05/prepositions.html",
+            "description": "Prepositions: Core Concepts & Confusing Pairs"
+        },
+		{
+            "id": "engm_10",
+            "title": "निश्चित शब्दयोगी अव्यये (Fixed Prepositions)",
+            "url": "https://www.e-gurumitra.com/2026/05/fixed-prepositions.html",
+            "description": "Fixed Prepositions & Prepositional Phrases"
+        },
+		{
+            "id": "engm_11",
+            "title": "उभयान्वयी व केवलप्रयोगी अव्यय (Conjunctions & Interjections)",
+            "url": "https://www.e-gurumitra.com/2026/05/conjunctions-interjections.html",
+            "description": "Conjunctions & Interjections"
+        },
+		{
+            "id": "engm_12",
+            "title": "उपपदे व निश्चितके (Articles)",
+            "url": "https://www.e-gurumitra.com/2026/05/articles.html",
+            "description": "Articles, Determiners & Quantifiers"
+        },
+		{
+            "id": "engm_13",
             "title": "वर्तमान काळ (Present Tense)",
             "url": "https://www.e-gurumitra.com/2025/10/present-tense.html",
             "description": "Rules and usage of Present Tense."
         },
         {
-            "id": "post_8",
+            "id": "engm_14",
             "title": "भूतकाळ (Past Tense)",
             "url": "https://www.e-gurumitra.com/2025/10/past-tense.html",
             "description": "Structure and rules of Past Tense."
         },
         {
-            "id": "post_9",
+            "id": "engm_15",
             "title": "भविष्य काळ (Future Tense)",
             "url": "https://www.e-gurumitra.com/2025/10/future-tense.html",
             "description": "Rules regarding Future Tense usage."
         },
         {
-            "id": "post_10",
+            "id": "engm_16",
             "title": "काळ (Tenses Revised)",
             "url": "https://www.e-gurumitra.com/2025/10/tenses-revised.html",
             "description": "Revision of all tenses together."
         },
-        {
-            "id": "post_11",
-            "title": "प्रयोग आणि भाषण (Voice & Speech)",
-            "url": "https://www.e-gurumitra.com/2025/10/voice_26.html",
-            "description": "Active-Passive Voice and Direct-Indirect Speech."
+		{
+            "id": "engm_17",
+            "title": "काळ - उपयोजन (Tenses: Advanced)",
+            "url": "https://www.e-gurumitra.com/2026/05/tenses-advanced.html",
+            "description": "Tenses: Advanced Applications & Conditional Clauses"
+        },
+		{
+            "id": "engm_18",
+            "title": "प्रयोग व वाक्यरूपांतर (Voice)",
+            "url": "https://www.e-gurumitra.com/2026/05/voice.html",
+            "description": "Voice: Active and Passive Transformation"
+        },
+		{
+            "id": "engm_19",
+            "title": "प्रत्यक्ष व अप्रत्यक्ष कथन (Direct and Indirect Speech)",
+            "url": "https://www.e-gurumitra.com/2026/05/direct-and-indirect-speech.html",
+            "description": "Direct and Indirect Speech"
+        },
+		{
+            "id": "engm_20",
+            "title": "वाक्यखंड व त्याचे प्रकार (Clauses)",
+            "url": "https://www.e-gurumitra.com/2026/05/clauses.html",
+            "description": "Clauses: Syntactic Parsing & Types"
+        },
+		{
+            "id": "engm_21",
+            "title": "वाक्यसंयोजन व तुलना (Sentence Synthesis)",
+            "url": "https://www.e-gurumitra.com/2026/05/sentence-synthesis.html",
+            "description": "Sentence Synthesis & Degrees of Comparison"
+        },
+		{
+            "id": "engm_22",
+            "title": "विरामचिन्हे व लेखननियम (Language Mechanics)",
+            "url": "https://www.e-gurumitra.com/2026/05/language-mechanics.html",
+            "description": "Language Mechanics: Punctuation & Error Spotting"
+        },
+		{
+            "id": "engm_23",
+            "title": "अलंकार (Figures of Speech)",
+            "url": "https://www.e-gurumitra.com/2026/05/figures-of-speech.html",
+            "description": "Poetics: Figures of Speech"
         },
         {
-            "id": "post_12",
+            "id": "engm_24",
+            "title": "गद्य उतारा आकलन (Reading Comprehension)",
+            "url": "https://www.e-gurumitra.com/2025/10/reading-comprehension.html",
+            "description": "Practice questions and reading skills."
+        },
+        {
+            "id": "engm_25",
+            "title": "कविता आकलन (Poetry Comprehension)",
+            "url": "https://www.e-gurumitra.com/2025/10/poetry-comprehension.html",
+            "description": "Learn figures of speech and poetry."
+        },
+        {
+            "id": "engm_26",
             "title": "शब्दसंग्रह (English Vocabulary)",
             "url": "https://www.e-gurumitra.com/2025/10/vocabulary.html",
             "description": "Synonyms, antonyms, idioms, and phrases."
         },
         {
-            "id": "post_13",
+            "id": "engm_27",
             "title": "इंग्रजी अध्यापन पद्धती (Teaching Methods)",
             "url": "https://www.e-gurumitra.com/2025/10/teaching-methods.html",
             "description": "Various methods of teaching English."
         },
         {
-            "id": "post_14",
+            "id": "engm_28",
             "title": "अध्यापनाचे प्रतिमान (Models of Teaching)",
             "url": "https://www.e-gurumitra.com/2025/10/models-of-teaching.html",
             "description": "Models of teaching and their use."
         },
         {
-            "id": "post_15",
+            "id": "engm_29",
             "title": "इंग्रजी अध्यापनातील नवोपक्रम (Innovations & ICT)",
             "url": "https://www.e-gurumitra.com/2025/10/innovations-ict.html",
             "description": "Innovations and ICT in teaching."
         },
         {
-            "id": "post_16",
+            "id": "engm_30",
             "title": "मूल्यमापन (Evaluation)",
             "url": "https://www.e-gurumitra.com/2025/11/evaluation-of-english.html",
             "description": "Evaluation tools and CCE methods."
         },
         {
-            "id": "post_17",
+            "id": "engm_31",
             "title": "LSRW कौशल्ये (LSRW Skills)",
             "url": "https://www.e-gurumitra.com/2025/11/lsrw-deep-dive.html",
             "description": "Listening, Speaking, Reading, Writing skills."
