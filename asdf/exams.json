@@ -24,6 +24,14 @@
         "type": "PREVIOUS_YEAR_QUESTION"
     },
     {
+        "id": "paper2_8feb_social",
+        "title": "CTET Paper 2 Social (8 Feb 26)",
+        "filename": "enc_p2_8feb_withsoc_ready.json",
+        "description": "L1-English, L2-hindi",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
         "id": "paper1_dec24",
         "title": "CTET Paper 1 (Dec 2024)",
         "filename": "enc_paper1_dec24_ready.json",
