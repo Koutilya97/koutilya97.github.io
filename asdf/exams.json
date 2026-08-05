@@ -40,6 +40,22 @@
         "type": "PREVIOUS_YEAR_QUESTION"
     },
     {
+        "id": "paper2_8feb_marathi_l1",
+        "title": "CTET Paper 2 Marathi L2 (8 Feb 26)",
+        "filename": "enc_p2_8feb_marathi_L1_ready.json",
+        "description": "Language1-marathi",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+        "id": "paper2_8feb_marathi_l2",
+        "title": "CTET Paper 2 Marathi L2 (8 Feb 26)",
+        "filename": "enc_p2_8feb_marathi_L2_ready.json",
+        "description": "Language2-marathi",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
         "id": "paper1_dec24",
         "title": "CTET Paper 1 (Dec 2024)",
         "filename": "enc_paper1_dec24_ready.json",
