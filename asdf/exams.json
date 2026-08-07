@@ -24,6 +24,22 @@
         "type": "PREVIOUS_YEAR_QUESTION"
     },
     {
+        "id": "paper2_7feb_social",
+        "title": "CTET Paper 2 Social (7 Feb 26)",
+        "filename": "enc_p2_7feb_withsoc_ready.json",
+        "description": "L1-English, L2-hindi",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+        "id": "paper2_7feb_science",
+        "title": "CTET Paper 2 Math-Sci (7 Feb 26)",
+        "filename": "enc_p7_7feb_withscim_ready.json",
+        "description": "L1-English, L2-hindi",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
         "id": "paper1_8feb",
         "title": "CTET Paper 1 (8 Feb 26)",
         "filename": "enc_p1_8feb_ready.json",
