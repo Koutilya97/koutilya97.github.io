@@ -8,6 +8,22 @@
         "type": "PREVIOUS_YEAR_QUESTION"
     },
     {
+        "id": "paper1_7feb_marathi_l1",
+        "title": "CTET Paper 1 marathi (7 Feb 26)",
+        "filename": "enc_p1_7feb_marathi_L1_ready.json",
+        "description": "Language 1",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
+        "id": "paper1_7feb_marathi_l2",
+        "title": "CTET Paper 1 marathi (7 Feb 26)",
+        "filename": "enc_p1_7feb_marathi_L2_ready.json",
+        "description": "Language 2",
+        "category": "CTET",
+        "type": "PREVIOUS_YEAR_QUESTION"
+    },
+    {
         "id": "paper1_8feb",
         "title": "CTET Paper 1 (8 Feb 26)",
         "filename": "enc_p1_8feb_ready.json",
